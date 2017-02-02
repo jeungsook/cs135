@@ -1,6 +1,4 @@
-# UNLV CS135 Lab
-
-## Welcome to CS135 Lab!
+# Welcome to UNLV CS135 Lab!
 
 Hello! This repo was created for the CS135 Lab sections 1011 and 1012 at UNLV but feel free to use it even if you aren't in my sections!
 
