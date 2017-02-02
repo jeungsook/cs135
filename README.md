@@ -2,6 +2,10 @@
 
 ## Welcome to CS135 Lab!
 
+Hello! This repo was created for the CS135 Lab sections 1011 and 1012 at UNLV but feel free to use it even if you aren't in my sections!
+
+This repo has lessons on how to program in C++ as well as example projects for you to challenge yourself with! Complete code of all projects will be provided so you can compare your code to mine.
+
 ### Basic Lab Info
 
 - Email: jeung-sook.williams@unlv.edu
