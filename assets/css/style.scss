@@ -4,12 +4,7 @@
 @import "{{ site.theme }}";
 
 header {
-  font-family: 'Raleway', 'Helvetica Neue', Helvetica, Arial, serif !important;
   background: #020181 url(https://raw.githubusercontent.com/jeungsook/cs135/master/images/banner.jpg);
-}
-
-h1, h2, h3, h4, h5, h6, .w3-slim, .w3-wide {
-    font-family: 'Raleway',Black,sans-serif;
 }
 
 a.button {
