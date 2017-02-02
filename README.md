@@ -19,4 +19,4 @@
 
 - Navigate to the cs135 folder in your home directory, and enter the following command:
 
-`git pull`
+    `git pull`
