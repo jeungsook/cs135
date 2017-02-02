@@ -38,18 +38,6 @@
           {{ content }}
         </section>
 
-        <aside id="sidebar">
-          {% if site.show_downloads %}
-            <a href="{{ site.github.zip_url }}" class="button">
-              <small>Download</small>
-              .zip file
-            </a>
-            <a href="{{ site.github.tar_url }}" class="button">
-              <small>Download</small>
-              .tar.gz file
-            </a>
-          {% endif %}
-
             <nav class="w3-sidenav w3-collapse w3-white w3-card-2 w3-animate-right" style="width:200px;right:0;" id="mySidenav">
             <a href="javascript:void(0)" onclick="w3_close()"
             class="w3-closenav w3-large w3-hide-large">Close &times;</a>
@@ -64,7 +52,6 @@
             <p class="repo-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
           {% endif %}
           
-        </aside>
       </div>
     </div>
 
