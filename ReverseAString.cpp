@@ -1,8 +1,10 @@
-//##################################################//
-//				Reverse a String					//					
-//		This program takes a string input,			//
+//##############################################################//
+//			Reverse a String			//					
+//		This program takes a string input,		//
 //		reverses the characters, and outputs it		//
-//##################################################//
+//##############################################################//
+
+// Jeung-Sook Williams jeung-sook.williams@unlv.edu
 
 #include <iostream> // cout, cin, cin.clear(), cin.ignore()
 #include <string.h> // string, .length(), getline()
