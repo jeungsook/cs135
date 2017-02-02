@@ -2,6 +2,8 @@
 
 ## Welcome to CS135 Lab!
 
+### Basic Lab Info
+
 - Email: jeung-sook.williams@unlv.edu
 - Office hours in TBE B361:
 
@@ -13,7 +15,7 @@
 
     1012, Wednesday 5:30-6:20pm
 
-## How to get the latest lab material
+### How to get the latest lab material
 
 - Navigate to the cs135 folder in your home directory, and enter the following command:
 
