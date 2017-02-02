@@ -8,6 +8,7 @@ Here you'll find lessons on how to program in C++ as well as example projects fo
 
 ### Basic Lab Info
 
+- Name: Jeung-Sook Williams
 - Email: jeung-sook.williams@unlv.edu
 - Office hours in TBE B361:
 
