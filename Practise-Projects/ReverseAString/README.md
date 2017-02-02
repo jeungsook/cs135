@@ -15,5 +15,5 @@
 * Create a loop and ask user if they want to reverse another string
          
 ###Tips / Hints:
-- There are useful functions in the <string.h> library
+- There are useful functions in the `<string.h>` library
 - For loops come in handy for iterating over arrays
