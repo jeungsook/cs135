@@ -2,7 +2,7 @@
 
 Hello! This page was created for the CS135 Lab sections 1011 and 1012 at UNLV but feel free to use it even if you aren't in my sections!
 
-Here you'll find lessons on how to program in C++ as well as example projects for you to challenge yourself with! Complete code of all **practice** projects will be provided so you can compare your code to mine (sorry no actual homework answers).
+Here you'll find lessons on how to program in C++ as well as example projects for you to challenge yourself with! Complete code of all **practice** projects will be provided so you can compare your code to mine (I also provide tips for the graded exercises).
 
 ### My Info
 
