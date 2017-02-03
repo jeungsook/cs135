@@ -10,13 +10,13 @@ permalink: /intro/
 This website contains all the information you need for this lab. Refer to it often.
 
 URL: http://tux.cs.unlv.edu/
-## Mrs. Lee Misch's Lab Manual:
 
+## Mrs. Lee Misch's Lab Manual:
 Mrs. Misch has created a beginner's guide to using Linux and the lab.
 
 URL: http://tux.cs.unlv.edu/lab_man/linuxmanual.pdf
-## Linux Command Reference Sheet: 
 
+## Linux Command Reference Sheet: 
 A reference for the basic linux commands that we will be using in this lab.
 
 URL: http://tux.cs.unlv.edu/refs/linux_commands.html
