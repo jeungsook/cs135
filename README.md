@@ -1,5 +1,4 @@
 ---
-layout: default
 title:  "CS135 LAB"
 ---
 
