@@ -8,7 +8,7 @@ permalink: /news/
 
 Here is where I'll post new information concerning the lab. For example: when I finish grading your exercises and when you can expect to recieve them, if the due dates for exercises change, etc...
 
-## Newest Post
+## Newest Post:
 
 ### First Real Post
 
@@ -26,7 +26,7 @@ I sent everyone an email earlier, but incase you did not recieve the message:
 
 Also, **the due dates for Exercise 4 and Exercise 5 have been changed from Feb. 7th to Feb.10th**
 
-## Old Posts
+## Old Posts:
 
 Ofcourse, there's not much here yet since I just created this GitHub page...
 
