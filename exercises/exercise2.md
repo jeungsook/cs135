@@ -4,6 +4,8 @@ title:  "Exercise 2"
 permalink: /exercise2/
 ---
 
+## Generating Output 
+
 ## Summary
 
 Learn how to:
