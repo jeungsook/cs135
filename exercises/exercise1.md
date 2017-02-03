@@ -8,9 +8,9 @@ permalink: /exercise1/
 
 ### Summary
 Learn how to:
-- Add comments to code
-- Compile a program
-- Run a compiled program
+  - Add comments to code
+  - Compile a program
+  - Run a compiled program
 
 ### Due
 Jan 24-27 for labs 1004-1009, 1012-1015, Jan 30 for lab 1011
