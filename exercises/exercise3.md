@@ -1,26 +1,22 @@
 ---
 layout: pages
-title:  "Exercise 1"
-permalink: /exercise1/
+title:  "Exercise 3"
+permalink: /exercise3/
 ---
-
-# Exercise 1
 
 ## Summary
 
-Learn how to:
-
-- Add comments to code
-- Compile a program
-- Run a compiled program
+- Familiarize yourself with the CS135 lab
+- Navigate to UNLV's tux website and answer the questions
 
 ### Due
-Jan 24-27 for labs 1004-1009, 1012-1015, Jan 30 for lab 1011
+by 11:59pm Tues, Jan 31
 
 ### Point Value
-10
+20
 
-### Download the pdf instructions for this exercise: 
+### Download the pdf instructions for this exercise: [Download](https://github.com/jeungsook/cs135/blob/master/exercises/pdf/CS%20135%20Spring%202017%20Exercise%20%233.pdf)
 
-### Due Date Passed. Here is a Perfect Example of Exercise 1:
-
+### Tips
+- The file you will be copying is not a program, just a plain text file
+- Do not mail the file with an extension
