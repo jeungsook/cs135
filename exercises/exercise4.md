@@ -6,7 +6,7 @@ permalink: /exercise4/
 
 ## Kinetic Energy Program
 
-## Summary
+### Summary
 
 Learn about:
 
@@ -17,10 +17,12 @@ Learn about:
 by 11:59pm Fri, Feb 10
 
 ### Point Value
-20
+30
 
-### Download the pdf instructions for this exercise: [Download]({{ site.url }}/cs135/exercises/pdf/CS 135 Spring 2017 Exercise #5.pdf)
+### Download the pdf instructions for this exercise: [Download]({{ site.url }}/cs135/exercises/pdf/CS 135 Spring 2017 Exercise #4.pdf)
 
 ### Tips
-- Do the problems by hand before you use a program to test your answers, these type of questions will most likely be on your tests, no matter who your professor is
-- Be careful on the tests. It's very easy to make mistakes / miscalculations
+- Test your program with the input values Mrs. Misch has provided and compare them with her results
+- In the future, you'll want to test your programs with all kinds of inputs
+- You will need to include a library to use certain math functions
+
