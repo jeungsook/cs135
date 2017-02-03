@@ -6,7 +6,7 @@ permalink: /exercise1/
 
 ## 1st C++ Program
 
-## Summary
+### Summary
 
 Learn how to:
 
