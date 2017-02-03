@@ -4,24 +4,24 @@ title:  "Lab Intro"
 permalink: /intro/
 ---
 
-## Most Important Links in this Lab:
+# Most Important Links in this Lab:
 
-###UNLV TBE B361 Lab Website: 
+##UNLV TBE B361 Lab Website: 
 This website contains all the information you need for this lab. Refer to it often.
 
 URL: http://tux.cs.unlv.edu/
 
-###Mrs. Lee Misch's Lab Manual: 
+##Mrs. Lee Misch's Lab Manual: 
 Mrs. Misch has created a beginner's guide to using Linux and the lab.
 
 URL: http://tux.cs.unlv.edu/lab_man/linuxmanual.pdf
 
-###Linux Command Reference Sheet: 
+##Linux Command Reference Sheet: 
 A reference for the basic linux commands that we will be using in this lab.
 
 URL: http://tux.cs.unlv.edu/refs/linux_commands.html
  
-## Lab Instructor's Information:
+# Lab Instructor's Information:
 
 Instructor |Joel Macias | John Orenza | Michael Walker | Jeung-Sook Williams 
 -----------|------------|-------------|----------------|---------------------
