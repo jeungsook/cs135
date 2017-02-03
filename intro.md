@@ -32,3 +32,5 @@ Section: | 1008, Tues 5:30-6:20pm | 1007, Fri 12:30-1:20pm | 1004, Fri 9:30-10:2
          |                         |                       | 1014, Fri 8:30-9:20am |
 Office Hours (in TBE B361): | TuTh, 1:20-2:20pm, 3:50-5:30pm | TuTh, 3:00-5:00pm | Wednesdays, 2:15-3:45pm | TuTh, 11:30am-12:30pm
   | MW, 1:00-3:45pm | Fridays, 1:30-3:30pm | Fridays, 12:30-2:30pm
+
+![table](/images/instructor_table.jpg)
