@@ -6,7 +6,7 @@ permalink: /exercise3/
 
 ## Tux Website Questions 
 
-## Summary
+### Summary
 
 - Familiarize yourself with the CS135 lab
 - Navigate to UNLV's tux website and answer the questions
