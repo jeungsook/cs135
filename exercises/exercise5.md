@@ -20,7 +20,7 @@ by 11:59pm Fri, Feb 10
 ### Point Value
 20
 
-### Download the pdf instructions for this exercise: [Download]({{ site.url }}/cs135/exercises/pdf/CS 135 Spring 2017 Exercise #5.pdf)
+### Download the pdf instructions for this exercise: [Download](https://github.com/jeungsook/cs135/blob/master/exercises/pdf/CS%20135%20Spring%202017%20Exercise%20%235.pdf)
 
 ### Tips
 - Do the problems by hand before you create a program to test your answers. These type of problems will most likely be on your first test, no matter who your professor is.
