@@ -5,11 +5,11 @@ permalink: /reverseastringcode/
 ---
 
 ```c++
-//##########################################################//
-//			           Reverse a String	    	            //					
-//		      This program takes a string input,    	    //
-//		     reverses the characters, and outputs it	    //
-//##########################################################//
+//##################################################//
+//		Reverse a String	    	    //
+//	This program takes a string input,    	    //
+//	reverses the characters, and outputs it	    //
+//##################################################//
 
 // Jeung-Sook Williams jeung-sook.williams@unlv.edu
 
