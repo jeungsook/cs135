@@ -4,6 +4,8 @@ title:  "Exercise 1"
 permalink: /exercise1/
 ---
 
+## 1st C++ Program
+
 ## Summary
 
 Learn how to:
