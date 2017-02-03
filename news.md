@@ -12,7 +12,7 @@ Here is where I'll post new information concerning the lab. For example: when I 
 
 ### 02/03/2017
 
-I send everyone an email earlier, but incase you did not recieve the message:
+I sent everyone an email earlier, but incase you did not recieve the message:
 
 >I finished grading everyone's exercise 2.
 
