@@ -5,7 +5,7 @@ permalink: /intro/
 ---
 
 ## See My Lab Intro Slides
-[CLICK THIS IF YOU HAVE ABSOLUTELY NO IDEA WHATS GOING ON]({{ site.url }}/cs135/CS135 Lab - Intro.pdf)
+[CLICK THIS IF YOU HAVE ABSOLUTELY NO IDEA WHAT'S GOING ON]({{ site.url }}/cs135/CS135 Lab - Intro.pdf)
 
 ## Lab Instructor's Information
 <br>
