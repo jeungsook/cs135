@@ -22,7 +22,7 @@ Jan 24-27 for labs 1004-1009, 1012-1015, Jan 30 for lab 1011
 ### Point Value
 10
 
-### Download the pdf instructions for this exercise: [Download]({{ site.url }}/cs135/exercises/pdf/CS 135 Spring 2017 Exercise #1.pdf)
+### Download the pdf instructions for this exercise: [Download](https://github.com/jeungsook/cs135/blob/master/exercises/pdf/CS%20135%20Spring%202017%20Exercise%20%231.pdf)
 
 ### Tips
 - On the Linux OS in the lab, emacs will color code your program making it easier to read and easier to spot mistakes
