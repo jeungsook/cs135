@@ -1,4 +1,8 @@
-##Title: ReverseAString
+---
+layout: pages
+title:  "ReverseAString"
+permalink: /reverseastring/
+---
 
 ###Summary: Create a program where you can type in a string and the program will reverse it and print it out.
          Ex: "ZOMG! This program is AWESOME!" becomes "!EMOSEWA si margorp sihT !GMOZ"
