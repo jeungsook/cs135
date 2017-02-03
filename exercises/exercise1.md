@@ -6,7 +6,6 @@ permalink: /exercise1/
 
 # Exercise 1
 
-### Summary
 Learn how to:
 
 - Add comments to code
