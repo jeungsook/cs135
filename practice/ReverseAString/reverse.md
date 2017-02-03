@@ -27,4 +27,4 @@ Beginner
 - For loops come in handy for iterating over arrays
 
 ### Done? Great! Do you want to compare it to my code?
-[<img src="https://dabuttonfactory.com/button.png?t=See+Code&f=Roboto&ts=24&tc=444&hp=20&vp=8&c=5&bgt=unicolored&bgc=9ddcff&be=1&bs=1&bc=999">](https://jeungsook.github.io/cs135/reverseastringcode/)
+[<img src="https://dabuttonfactory.com/button.png?t=See+Code&f=Roboto&ts=24&tc=444&hp=20&vp=8&c=5&bgt=unicolored&bgc=9ddcff&be=1">](https://jeungsook.github.io/cs135/reverseastringcode/)
