@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Kanit:300" rel="stylesheet">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
+    <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
+    <link rel="stylesheet" href="https://jeungsook.github.io/cs135/lib/w3.css">
+
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <title>CS135 LAB</title>
+  </head>
+
+  <body>
+    <header>
+      <div class="inner">
+        <a href="{{ '/' | absolute_url }}">
+          <h1>CS135 LAB</h1>
+        </a>
+        <h2>SPRING 2017 LAB MATERIAL + EXTRAS</h2>
+        {% if site.github.is_project_page %}
+          <a href="{{ site.github.repository_url }}" class="button"><small>View project on</small> GitHub</a>
+        {% endif %}
+        {% if site.github.is_user_page %}
+          <a href="{{ site.github.repository_url }}" class="button"><small>Follow me on</small> GitHub</a>
+        {% endif %}
+      </div>
+    </header>
+
+    <div id="content-wrapper">
+      <div class="inner clearfix">
+        
+      <ul class="w3-navbar w3-light-blue">
+        <li><a class="w3-hover-light-purple" href="https://jeungsook.github.io/cs135">Home</a></li>
+        <li><a class="w3-hover-light-purple" href="https://jeungsook.github.io/cs135/intro/">Intro</a></li>
+        <li class="w3-dropdown-hover">
+          <a class="w3-hover-light-purple" href="#">Exercises</a>
+          <div class="w3-dropdown-content w3-white w3-card-4">
+            <a class="w3-hover-light-purple" href="#">Exercise 1</a>
+            <a class="w3-hover-light-purple" href="#">Exercise 2</a>
+            <a class="w3-hover-light-purple" href="#">Exercise 3</a>
+          </div>
+        </li>
+      </ul>
+        
+        <section id="main-content">
+          {{ content }}
+        </section>
+        
+      </div>
+    </div>
+
+    {% if site.google_analytics %}
+      <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type="text/javascript">
+        try {
+          var pageTracker = _gat._getTracker("{{ site.google_analytics }}");
+        pageTracker._trackPageview();
+        } catch(err) {}
+      </script>
+    {% endif %}
+  </body>
+</html>
