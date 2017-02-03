@@ -1,6 +1,4 @@
----
-title:  "CS135 LAB"
----
+CS135 Lab
 
 # Welcome to UNLV CS135 Lab!
 
