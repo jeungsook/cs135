@@ -29,7 +29,6 @@ Ofcourse, there's not much here yet since I just created this GitHub page...
   {% for post in site.posts %}
     <li>
       <a href="/cs135/{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
     </li>
   {% endfor %}
 </ul>
