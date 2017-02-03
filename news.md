@@ -11,8 +11,7 @@ Here is where I'll post new information concerning the lab. For example: when I 
 ## Newest Post:
 
 ### First Real Post
-
-#### 02/03/2017
+**02/03/2017**
 
 I sent everyone an email earlier, but incase you did not recieve the message:
 
