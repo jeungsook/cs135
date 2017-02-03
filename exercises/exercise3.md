@@ -4,6 +4,8 @@ title:  "Exercise 3"
 permalink: /exercise3/
 ---
 
+## Tux Website Questions 
+
 ## Summary
 
 - Familiarize yourself with the CS135 lab
