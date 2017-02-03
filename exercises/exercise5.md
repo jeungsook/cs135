@@ -6,7 +6,7 @@ permalink: /exercise5/
 
 ## Evaluating C++ expressions
 
-## Summary
+### Summary
 
 Learn how to:
 
