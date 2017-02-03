@@ -22,6 +22,6 @@ A reference for the basic linux commands that we will be using in this lab.
 URL: [http://tux.cs.unlv.edu/refs/linux_commands.html](http://tux.cs.unlv.edu/refs/linux_commands.html)
  
 ## Lab Instructor's Information:
-
-
+<br>
+<br>
 ![table](https://raw.githubusercontent.com/jeungsook/cs135/master/images/instructor_table.jpg)
