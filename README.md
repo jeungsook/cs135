@@ -18,8 +18,10 @@ Here you'll find lessons on how to program in C++ as well as example projects fo
 
     1012, Wednesday 5:30-6:20pm
 
-### How to get the latest lab material
+### GitHub
 
-- Navigate to the cs135 folder in your home directory, and enter the following command:
+What is GitHub? GitHub (and more specifically, Git) is a version control platform / collabrative tool / social media platform for programmers!
 
-    `git pull`
+I created this GitHub page so that even if you don't know how to use GitHub, you can easily access the lab information. But, if you're familiar with GitHub already, or curious, you can click the button in the header to see the GitHub repository of this page. 
+
+In my repository you can access all of the files contained on this page and take a look at the page's code.
