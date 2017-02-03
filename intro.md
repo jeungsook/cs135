@@ -1,5 +1,5 @@
 ---
 layout: pages
-title:  "Lab Intro"
+title:  "LAB INTRO"
 permalink: /intro/
 ---
