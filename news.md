@@ -4,11 +4,12 @@ title:  "News"
 permalink: /news/
 ---
 
-# Keep up-to-date with everything that's going on in the lab!
+## Keep up-to-date with everything that's going on in the lab!
 
 Here is where I'll post new information concerning the lab. For example: when I finish grading your exercises and when you can expect to recieve them, if the due dates for exercises change, etc...
 
 ## Newest Post
+
 ### 02/03/2017
 
 I send everyone an email earlier, but incase you did not recieve the message:
