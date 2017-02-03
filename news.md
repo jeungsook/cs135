@@ -4,7 +4,7 @@ title:  "News"
 permalink: /news/
 ---
 
-## Keep up-to-date with everything that's going on in the lab!
+# Keep up-to-date with everything that's going on in the lab!
 
 Here is where I'll post new information concerning the lab. For example: when I finish grading your exercises and when you can expect to recieve them, if the due dates for exercises change, etc...
 
