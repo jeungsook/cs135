@@ -6,7 +6,7 @@ permalink: /exercise2/
 
 ## Generating Output 
 
-## Summary
+### Summary
 
 Learn how to:
 
