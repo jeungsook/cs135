@@ -6,3 +6,10 @@ permalink: /news/
 
 ## Keep up-to-date with everything that's going on in the lab!
 
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
