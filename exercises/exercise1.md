@@ -8,9 +8,11 @@ permalink: /exercise1/
 
 Learn how to:
 
+- Use the cp command to copy a file
 - Add comments to code
 - Compile a program
 - Run a compiled program
+- Use the lpr command to print a file
 
 ### Due
 Jan 24-27 for labs 1004-1009, 1012-1015, Jan 30 for lab 1011
@@ -20,20 +22,7 @@ Jan 24-27 for labs 1004-1009, 1012-1015, Jan 30 for lab 1011
 
 ### Download the pdf instructions for this exercise: [Download](https://github.com/jeungsook/cs135/blob/master/exercises/pdf/CS%20135%20Spring%202017%20Exercise%20%231.pdf)
 
-### The Due Date Has Passed. Here is a Perfect Example of Exercise 1:
-
-```c++
-// Jeung-Sook Williams, Lecture: 1001, Lab: 1011, Exercise #1
-#include <iostream>
-using namespace std;
-
-int main()
-{
-  cout << "Hello World!" << endl;
-  cout << "This is" << endl;
-  cout << "   my" << endl;
-  cout << "first program in C++." << endl;
-  return 0;
-}
-```
+### Tips
+- On the Linux OS in the lab, emacs will color code your program making it easier to read and easier to spot mistakes
+- Always compile and run your code before submitting it
 
