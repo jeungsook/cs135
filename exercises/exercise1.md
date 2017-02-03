@@ -20,7 +20,7 @@ Jan 24-27 for labs 1004-1009, 1012-1015, Jan 30 for lab 1011
 ### Point Value
 10
 
-### Download the pdf instructions for this exercise: 
+### Download the pdf instructions for this exercise: [Download](pdf/CS 135 Spring 2017 Exercise #1.pdf)
 
 ### Due Date Passed. Here is a Perfect Example of Exercise 1:
 
