@@ -23,4 +23,5 @@ URL: [http://tux.cs.unlv.edu/refs/linux_commands.html](http://tux.cs.unlv.edu/re
  
 ## Lab Instructor's Information:
 
+
 ![table](https://raw.githubusercontent.com/jeungsook/cs135/master/images/instructor_table.jpg)
