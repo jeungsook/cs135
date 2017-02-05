@@ -22,3 +22,11 @@ by 11:59pm Tues, Jan 31
 ### Tips
 - The file you will be copying is not a program, just a plain text file
 - Do not mail the file with an extension
+
+### Due Date Passed
+
+Common mistakes: 
+
+- Not specifying that cat displays the **entire** or **full** contents of a file to the screen. The more command also displays the content of a file to the screen. However, more displays the content one page at a time. I need something in your answers to distinguish the two.
+
+- Stating that cp renames a file or creates a new file. It copies the contents of the file specified in the first argument to the file specified in the second argument. The original file is left untouched (does not rename that file) and the second file is not nessesarily a new file. If the file already exists, it will be overwritten.
