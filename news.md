@@ -10,18 +10,15 @@ Here is where I'll post new information concerning the lab. For example: when I 
 
 ## Newest Post:
 
-### Finished Grading Exercise 3
-**02/04/2017**
+### Next Set of Exercises
+**02/07/2017**
 
-I've finished grading Exercise 3. Like last time, if you did not get an email from me with your grade, I did not receive your Exercise. If you submitted the Exercise before the deadline and still did not receive a grade, please forward the email that you sent (through bobby) to me.
+Exercise 6, 7, and 8 have been uploaded to Mrs. Lee Misch's website. I have also posted them here for anyone not in her class.
 
-Common mistakes I saw were: 
+I will update the tips section of each Exercise as I get questions in the labs so you might want to keep an eye out on those.
 
-- Not specifying that cat displays the **entire** or **full** contents of a file to the screen. The more command also displays the content of a file to the screen. However, more displays the content one page at a time. I need something in your answers to distinguish the two.
-
-- Stating that cp renames a file or creates a new file. It copies the contents of the file specified in the first argument to the file specified in the second argument. The original file is left untouched (does not rename that file) and the second file is not nessesarily a new file. If the file already exists, it will be overwritten.
-
-That's all! Enjoy the rest of your weekend!
+On an unrelated note, this GitHub page now has a favicon. :)
+Please fav this page and keep checking on it. I asked Mr. John Kowalski about the projector and it looks like it won't be fixed anytime soon... ;(
 
 ## Old Posts:
 
@@ -30,7 +27,7 @@ Ofcourse, there's not much here yet since I just created this GitHub page...
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="/cs135/{{ post.url }}">{{ post.title }}</a>
+      <a href="/cs135{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
