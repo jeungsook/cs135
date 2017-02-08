@@ -22,8 +22,6 @@ Please fav this page and keep checking on it. I asked Mr. John Kowalski about th
 
 ## Old Posts:
 
-Ofcourse, there's not much here yet since I just created this GitHub page...
-
 <ul>
   {% for post in site.posts %}
     <li>
