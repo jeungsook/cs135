@@ -4,7 +4,7 @@ title:  "Exercise 7"
 permalink: /exercise7/
 ---
 
-## Evaluating C++ expressions
+## Classifying Numbers 
 
 ### Summary
 
