@@ -18,7 +18,7 @@ Exercise 6, 7, and 8 have been uploaded to Mrs. Lee Misch's website. I have also
 I will update the tips section of each Exercise as I get questions in the labs so you might want to keep an eye out on those.
 
 On an unrelated note, this GitHub page now has a favicon. ;)
-Please fav this page and keep checking on it. I asked Mr. John Kowalski about the projector and it looks like it won't be fixed anytime soon... <:(
+Please fav this page and keep checking on it. I asked Mr. John Kowalski about the projector and it looks like it won't be fixed anytime soon... :(
 
 ## Old Posts:
 
