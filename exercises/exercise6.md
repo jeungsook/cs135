@@ -4,7 +4,7 @@ title:  "Exercise 6"
 permalink: /exercise6/
 ---
 
-## Evaluating C++ expressions
+## Solving Equations
 
 ### Summary
 
