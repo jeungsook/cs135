@@ -30,3 +30,8 @@ URL: [http://tux.cs.unlv.edu/lab_man/linuxmanual.pdf](http://tux.cs.unlv.edu/lab
 A reference for the basic linux commands that we will be using in this lab.
 
 URL: [http://tux.cs.unlv.edu/refs/linux_commands.html](http://tux.cs.unlv.edu/refs/linux_commands.html)
+
+### C++ Reference Website
+Forgot which header file you need to include for a particular function? Getting errors while using a function and want to make sure you're using it correctly?
+
+URL: [http://www.cplusplus.com/reference/](http://www.cplusplus.com/reference/)
