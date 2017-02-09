@@ -1,6 +1,6 @@
 ---
 layout: pages
-title:  "Finished Grading Exercise 3"
+title:  "Finished Grading Ex3"
 date:   2017-02-04
 ---
 
