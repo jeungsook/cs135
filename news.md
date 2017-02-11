@@ -11,7 +11,7 @@ Here is where I'll post new information concerning the lab. For example: when I 
 ## Newest Post:
 
 ### Due Date for EX4 & 5 Have Passed
-**02/10/2017**
+**02/11/2017**
 
 The due date for Exercises 4 and 5 have passed. I've graded your Exercise 5 first because it is easier to grade. As always, if you didn't receive a grade, foward the email you sent. 
 
