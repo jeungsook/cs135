@@ -15,7 +15,9 @@ Here is where I'll post new information concerning the lab. For example: when I 
 
 The due date for Exercises 4 and 5 have passed. I've graded your Exercise 5 first because it is easier to grade. As always, if you didn't receive a grade, foward the email you sent. 
 
-Also, I've uploaded that Exercise 5 test program I said I'd upload. Check the Exercise 5 page. I posted explainations for common mistakes on there too.
+I've added a new practice exercise. This one should be easier than the last one.
+
+Also, I've uploaded that Exercise 5 test program I said I'd upload. Check the Exercise 5 page. **I posted explainations for common mistakes on there too.**
 
 Please make sure you leave yourself enough time to do the Exercises. I had a lot of (literally) last minute submissions this time around.
 
