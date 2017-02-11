@@ -55,6 +55,8 @@ int main() {
 ```
 - Like I said, this function is very simple. It does not handle decimal exponents or negative exponents correctly. The pow function included in the cmath library is more robust. (As a practice exercise, why don't you try creating a better pow function?)
 
+Click this link if you want to know more about the cmath pow function: [Click](http://www.cplusplus.com/reference/cmath/pow/)
+
 ## Final Comments
 
 Functions can return many different types of data. String, bool, float, pointers, classes, etc...
