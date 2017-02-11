@@ -17,7 +17,7 @@ Learn how to:
 - Use the lpr command to print a file
 
 ### Due
-Jan 24-27 for labs 1004-1009, 1012-1015, Jan 30 for lab 1011
+ ̶J̶a̶n̶ ̶2̶4̶-̶2̶7̶ ̶f̶o̶r̶ ̶l̶a̶b̶s̶ ̶1̶0̶0̶4̶-̶1̶0̶0̶9̶,̶ ̶1̶0̶1̶2̶-̶1̶0̶1̶5̶,̶ ̶J̶a̶n̶ ̶3̶0̶ ̶f̶o̶r̶ ̶l̶a̶b̶ ̶1̶0̶1̶1̶
 
 ### Point Value
 10
