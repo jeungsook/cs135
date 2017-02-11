@@ -1,14 +1,14 @@
 ---
 layout: pages
-title:  "ReverseAString"
-permalink: /reverseastringcode/
+title:  "Prime Directive"
+permalink: /primedirectivecode/
 ---
 
 ```c++
 //###################################################//
-//	      			Prime Directive									     //					
-//		Enter a number, and this program will tell		 //
-//		  		you if it's prime or not						     //
+//	      	Prime Directive			     //					
+//	Enter a number, and this program will tell   //
+//		you if it's prime or not	     //
 //###################################################//
 
 #include <iostream> // cout, cin
