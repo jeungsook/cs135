@@ -8,10 +8,11 @@ permalink: /exercise4/
 
 ### Summary
 
-Learn about:
+Learn how to:
 
-- Type casting and coercion
-- Library functions
+- Read input from a keyboard
+- Use arithmetic operators
+- Use datatypes
 
 ### Due
 by 11:59pm Fri, Feb 10
