@@ -36,6 +36,6 @@ View the code or download, compile, and run it yourself (right-click > save link
 
 Common mistakes:
 
-- #2: The answer is a double because the pow(#,#) function returns a double. I warned you about this in lab.
+- #2: The answer is a double because the pow(#,#) function returns a double. I tried to warn you about this in lab. This was such a common mistake that I created a lesson explaining more about function return types: [Click](https://jeungsook.github.io/cs135/lessons/returntype/)
 - #9 & #10: z is an int. Anything put into z will be converted into an int.
 - You need to be very, verrry careful with these on the test. Remember PEMDAS.
