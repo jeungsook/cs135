@@ -52,7 +52,7 @@ double pow(double, int);
 int main() {
 ...
 ```
-- Like I said, this function is very simple. It does not handle decimal exponents or negative exponents correctly. The pow function included in the cmath library is more robust.
+- Like I said, this function is very simple. It does not handle decimal exponents or negative exponents correctly. The pow function included in the cmath library is more robust. (As a practice exercise, why don't you try creating a better pow function?)
 
 ## Final Comments
 
