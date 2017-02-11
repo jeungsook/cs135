@@ -1,3 +1,5 @@
+// Jeung-Sook Williams jeung-sook.williams@unlv.edu
+
 #include <iostream>
 
 double pow(double, int);
