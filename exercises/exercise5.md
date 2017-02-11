@@ -34,3 +34,9 @@ The due date has passed. I know some of you have made programs to test your answ
 View the code or download, compile, and run it yourself (right-click > save link as):
 
 [<img src="https://dabuttonfactory.com/button.png?t=See+Code&f=Roboto&ts=24&tc=444&hp=20&vp=8&c=5&bgt=unicolored&bgc=9ddcff&be=1">](https://jeungsook.github.io/cs135/ex5code/) [<img src="https://dabuttonfactory.com/button.png?t=Download+.cpp&f=Roboto&ts=24&tc=444&hp=20&vp=8&c=5&bgt=unicolored&bgc=9ddcff&be=1">]({{ site.url }}/cs135/exercises/ex5.cpp)
+
+Common mistakes:
+
+- #2 is a double because the pow(#,#) function returns a double. I warned you about this in the lab.
+- z is an int. Anything put into z will be coerced into an int.
+- You need to be very, verrry careful with these on the test. Remember PEMDAS.
