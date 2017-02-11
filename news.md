@@ -13,7 +13,9 @@ Here is where I'll post new information concerning the lab. For example: when I 
 ### Due Date for EX4 & 5 Have Passed
 **02/10/2017**
 
-The due date for Exercises 4 and 5 have passed. I've uploaded that Exercise 5 test program I said I'd upload. Check the Exercise 5 page. If you download, compile, and run that code, you'll be able to check your answers before I get around to grading them.
+The due date for Exercises 4 and 5 have passed. I've graded your Exercise 5 first because it is easier to grade. As always, if you didn't receive a grade, foward the email you sent. 
+
+Also, I've uploaded that Exercise 5 test program I said I'd upload. Check the Exercise 5 page. I posted explainations for common mistakes on there too.
 
 Please make sure you leave yourself enough time to do the Exercises. I had a lot of (literally) last minute submissions this time around.
 
