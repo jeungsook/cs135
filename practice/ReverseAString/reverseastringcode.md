@@ -56,6 +56,8 @@ int main() {
 	}
 	//
 
+return 0;
+
 }
 
 // Function that reverses the string
