@@ -6,7 +6,7 @@ permalink: /primedirectivecode/
 
 ```c++
 //###################################################//
-//	      	Prime Directive			     //					
+//	      	Prime Directive			     //
 //	Enter a number, and this program will tell   //
 //		you if it's prime or not	     //
 //###################################################//
