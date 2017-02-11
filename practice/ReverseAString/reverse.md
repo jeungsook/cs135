@@ -10,10 +10,7 @@ Create a program where you can type in a string and the program will reverse it 
 
          Ex: "ZOMG! This program is AWESOME!" becomes "!EMOSEWA si margorp sihT !GMOZ"
          
-### Level
-Beginner
-         
-### Main Features
+### Simple Algorithm
 1. Prompt user to enter a string to reverse
 2. Accept string / char array input and store it into a variable
 3. Reverse the string in main function or create a separate function
