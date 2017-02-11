@@ -1,8 +1,10 @@
 //##############################################################//
-//				Prime Directive									//					
-//		Enter a number, and this program will tell				//
-//				you if it's prime or not						//
+//			Prime Directive				//
+//	Enter a number, and this program will tell		//
+//			you if it's prime or not		//
 //##############################################################//
+
+// Jeung-Sook Williams jeung-sook.williams@unlv.edu
 
 #include <iostream> // cout, cin
 
