@@ -4,7 +4,7 @@ title:  "Return Type"
 permalink: /lessons/returntype/
 ---
 
-##Function Return Types
+## Function Return Types
 
 All functions have what we call a **return type**.
 
@@ -36,7 +36,7 @@ double pow(double x, int y) {
 }
 ```
 
-###Notes about this function:
+### Notes about this function:
 
 - If you want to actually test this function, you have to include what is called a function prototype before the int main function:
 
@@ -48,7 +48,7 @@ int main() {
 ```
 - Like I said, this function is very simple. It does not handle decimal exponents or negative exponents correctly. The pow function included in the cmath library is more robust.
 
-##Final Comments
+## Final Comments
 
 Functions can return many different types of data. String, bool, float, pointers, classes, etc...
 
