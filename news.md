@@ -10,15 +10,16 @@ Here is where I'll post new information concerning the lab. For example: when I 
 
 ## Newest Post:
 
-### Next Set of Exercises
-**02/07/2017**
+### Due Date for EX4 & 5 Have Passed
+**02/10/2017**
 
-Exercise 6, 7, and 8 have been uploaded to Mrs. Lee Misch's website. I have also posted them here for anyone not in her class.
+The due date for Exercises 4 and 5 have passed. I've uploaded that Exercise 5 test program I said I'd upload. Check the Exercise 5 page. If you download, compile, and run that code, you'll be able to check your answers before I get around to grading them.
 
-I will update the tips section of each Exercise as I get questions in the labs so you might want to keep an eye out on those.
+Please make sure you leave yourself enough time to do the Exercises. I had a lot of (literally) last minute submissions this time around.
 
-On an unrelated note, this GitHub page now has a favicon. ;)
-Please fav this page and keep checking on it. I asked Mr. John Kowalski about the projector and it looks like it won't be fixed anytime soon... :(
+If you do not get your Exercise in on time, I will not be able to grade it and you'll get a 0. If you mistype my email and I don't get it, you'll get a 0. If you don't send it to me with the mail command and attach your file to an email, you'll get a 0.
+
+I don't want to have to give you a 0 so come to the lab or email me before the due date and I'll help you out, okay?
 
 ## Old Posts:
 
