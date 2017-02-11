@@ -31,6 +31,6 @@ by 11:59pm Fri, Feb 10
 
 The due date has passed. I know some of you have made programs to test your answers. I warned you about .0 output and if you came to me during lab or office hours I showed you how you can fix it with setprecision. Here is an exercise 5 code example with setprecision which prints out all of the correct answers.
 
-View the code or download, compile, and run it yourself:
+View the code or download, compile, and run it yourself (right-click > save link as):
 
 [<img src="https://dabuttonfactory.com/button.png?t=See+Code&f=Roboto&ts=24&tc=444&hp=20&vp=8&c=5&bgt=unicolored&bgc=9ddcff&be=1">](https://jeungsook.github.io/cs135/ex5code/) [<img src="https://dabuttonfactory.com/button.png?t=Download+.cpp&f=Roboto&ts=24&tc=444&hp=20&vp=8&c=5&bgt=unicolored&bgc=9ddcff&be=1">]({{ site.url }}/cs135/exercises/ex5.cpp)
