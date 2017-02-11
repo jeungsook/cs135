@@ -35,6 +35,11 @@ double pow(double x, int y) {
 
 }
 ```
+If you want to download a program containing this pow function and mess around with it:
+
+Right-click & click save link as on the "Download .cpp" button if you want to download it, otherwise just click "See Code"
+
+[<img src="https://dabuttonfactory.com/button.png?t=See+Code&f=Roboto&ts=24&tc=444&hp=20&vp=8&c=5&bgt=unicolored&bgc=9ddcff&be=1">](https://jeungsook.github.io/cs135/lessons/powfunctioncode.md/) [<img src="https://dabuttonfactory.com/button.png?t=Download+.cpp&f=Roboto&ts=24&tc=444&hp=20&vp=8&c=5&bgt=unicolored&bgc=9ddcff&be=1">]({{ site.url }}/cs135/lessons/pow.cpp)
 
 ### Notes about this function:
 
