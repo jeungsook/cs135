@@ -43,8 +43,9 @@ Right-click & click save link as on the "Download .cpp" button.
 
 ### Notes about this function:
 
-- If you want to actually test this function, you have to include what is called a function prototype before the int main function:
+- If you want to write your own function, you have to include what is called a function prototype before the int main function:
 
+Ex: Function prototype for my pow function
 ```c++
 double pow(double, int);
 
