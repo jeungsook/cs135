@@ -11,6 +11,8 @@ permalink: /primedirectivecode/
 //		you if it's prime or not	     //
 //###################################################//
 
+// Jeung-Sook Williams jeung-sook.williams@unlv.edu
+
 #include <iostream> // cout, cin
 
 int main() {
