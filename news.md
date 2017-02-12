@@ -10,7 +10,7 @@ Here is where I'll post new information concerning the lab. For example: when I 
 
 ## Newest Post:
 
-### <a href="/cs135{{ post.url }}">{{ site.posts[0].title }}</a>
+### <a href="/cs135{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>
 **02/11/2017**
 
 This is the second news post I've posted today. I'd also been editing the previous news post several times throughout the day. Each time I debated whether or not I should post a new news post or just edit it.
