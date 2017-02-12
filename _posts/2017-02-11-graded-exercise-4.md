@@ -1,7 +1,7 @@
 ---
 layout: pages
 title:  "Exercise 4 Graded"
-date:   2017-02-11
+date:   2017-02-11 00:30:00
 ---
 
 **02/11/2017**
