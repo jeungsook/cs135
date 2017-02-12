@@ -24,9 +24,7 @@ To help remedy this problem, I've added an RSS feed to this GitHub page. If you 
 <ul>
   {% for post in site.posts %}
     {% unless forloop.first == true %}
-    <li>
       {{ post.date | date: "%m/%d/%Y" }} - <a href="/cs135{{ post.url }}">{{ post.title }}</a>
-    </li>
     {% endunless %}
   {% endfor %}
 </ul>
