@@ -13,11 +13,12 @@ Here is where I'll post new information concerning the lab. For example: when I 
 ### <a href="/cs135{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>
 **02/11/2017**
 
-This is the second news post I've posted today. I'd also been editing the previous news post several times throughout the day. Each time I debated whether or not I should post a new news post or just edit it.
+Sooooo...because I don't like, sleep, this is my third news post today. If you did not read my other two posts today, please do.
 
-I've been a bit worried that some of you might miss some news posts that you might be interested in.
+I've finished grading your Exercise 4. If you didn't get your grade, I didn't get your Exercise! 
+Foward the email if you sent it before the deadline.
 
-To help remedy this problem, I've added an RSS feed to this GitHub page. If you have an RSS reader, it should make it much easier to tell when there's new news.
+For the most part, everyone did a great job on 4.
 
 ## Old Posts:
 
