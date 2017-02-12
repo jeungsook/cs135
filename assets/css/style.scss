@@ -8,40 +8,44 @@ header {
   padding-bottom: 30px;
 }
 
+header h1 {
+  width: 700px;
+}
+
 a.button {
-    width: 202px;
-    height: 80px;
-    padding-top: 22px;
-    padding-left: 68px;
-    font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
-    font-size: 23px;
-    line-height: 1.2;
-    color: #fff;
+  width: 202px;
+  height: 80px;
+  padding-top: 22px;
+  padding-left: 68px;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 23px;
+  line-height: 1.2;
+  color: #fff;
 }
 
 #content-wrapper {
-    padding-top: 0px;
+  padding-top: 0px;
 }
 
 #main-content {
-    width: 95%;
-    padding-top: 30px;
-    margin-left: 30px;
+  width: 95%;
+  padding-top: 30px;
+  margin-left: 30px;
 }
 
 .w3-light-purple, .w3-hover-light-purple:hover {
-    color: #fff!important;
-    background-color: #91678d!important;
+  color: #fff!important;
+  background-color: #91678d!important;
 }
 
 .w3-navbar {
-    a{color:inherit}
+  a{color:inherit}
 }
 
 blockquote {
-    font-size: 15px;
+  font-size: 15px;
 }
 
 pre code {
-    background-color: transparent;
+  background-color: transparent;
 }
