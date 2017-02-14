@@ -27,3 +27,9 @@ by 11:59pm Fri, Feb 10
 - In the future, you'll want to test your programs with all kinds of inputs
 - You will need to include a library to use certain math functions
 
+### Due Date Passed:
+
+For the most part, everyone did great! The only advice I have is, make sure you read the instructions carefully. I would even make a checklist of each Exercises' requirements to make sure your program includes everything your professor is asking for. (I always make a checklist and use a whiteboard when planning out my programs or program modules). 
+
+Also, use the sample outputs as models for your own program's output. That's what they're there for.
+
