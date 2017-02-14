@@ -26,7 +26,7 @@ This is why, in Exercise 4, if you typed 1/2 * m * pow(v, 2), your kinetic energ
 
 ### Fixes
 
-There are a few ways to fix this problem:
+There are a few ways to fix this problem but the basic idea is that you have to let the computer know you want to do double division:
 
 ```c++
 #include <iostream>
@@ -79,3 +79,9 @@ Using C++ static_cast:
 static_cast<double>(15)/2:  7.5
 15/static_cast<float>(2):  7.5
 ```
+
+You could also put either the numerator or denominator into a double type variable.
+
+Make sure you understand this completely for the first test.
+
+Good luck!
