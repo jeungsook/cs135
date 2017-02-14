@@ -30,7 +30,6 @@ There are a few ways to fix this problem:
 
 ```c++
 #include <iostream>
-#include <cmath>
 
 int main() {
 
