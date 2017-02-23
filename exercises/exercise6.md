@@ -13,7 +13,7 @@ Learn how to:
 - Use conditional branching
 
 ### Due
-by 11:59pm Sun, Feb 26
+by 11:59pm Sun, Feb 26 - **for Lecture Section 1003 ONLY the due date has been extended to March 1st**
 
 ### Point Value
 40
