@@ -1,6 +1,6 @@
 ---
 layout: pages
-title:  "Due Date for Exercise 6"
+title:  "Exercise 6 Extension for 1003"
 date:   2017-02-22 00:00:00
 ---
 
