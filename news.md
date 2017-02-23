@@ -11,14 +11,14 @@ Here is where I'll post new information concerning the lab. For example: when I 
 ## Newest Post:
 
 ### <a href="/cs135{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>
-**02/11/2017**
+**02/22/2017**
 
-Sooooo...because I don't like, sleep, this is my third news post today. If you did not read my other two posts today, please do.
+The due date for Exercise 6 has been extended for **everyone in Dr. Jo's 1003 class only** to March 1st.
 
-I've finished grading your Exercise 4. If you didn't get your grade, I didn't get your Exercise! 
-Foward the email if you sent it before the deadline.
+If you're not in her class, it's due on Sunday, Feb 26. 
+Please get them in soon, I've only recieved 3 so far.
 
-For the most part, everyone did a great job on 4.
+Email me if you're stuck.
 
 ## Old Posts:
 
