@@ -13,12 +13,9 @@ Here is where I'll post new information concerning the lab. For example: when I 
 ### <a href="/cs135{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>
 **02/22/2017**
 
-The due date for Exercise 6 has been extended for **everyone in Dr. Jo's 1003 class only** to March 1st.
+Hi, guys. I've been too busy to update the page lately but I do stay on top of anything concerning the graded Excercises.
 
-If you're not in her class, it's due on Sunday, Feb 26. 
-Please get them in soon, I've only recieved 3 so far.
-
-Email me if you're stuck.
+Mrs. Misch extended the due date of Exercise 7 so I'm updating everyone on the new due date: Tue, March 7th.
 
 ## Old Posts:
 
