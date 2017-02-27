@@ -15,7 +15,7 @@ Learn how to:
 - Use nesting loops
 
 ### Due
-by 11:59pm Sun, Mar 5
+by 11:59pm S̶u̶n̶,̶ ̶M̶a̶r̶ ̶5̶  Tue, March 7
 
 ### Point Value
 40
