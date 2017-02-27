@@ -11,7 +11,7 @@ Here is where I'll post new information concerning the lab. For example: when I 
 ## Newest Post:
 
 ### <a href="/cs135{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>
-**02/22/2017**
+**02/27/2017**
 
 Hi, guys. I've been too busy to update the page lately but I do stay on top of anything concerning the graded Excercises.
 
