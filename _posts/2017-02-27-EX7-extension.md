@@ -1,7 +1,7 @@
 ---
 layout: pages
 title:  "Exercise 7 Extension"
-date:   2017-02-22 00:00:00
+date:   2017-02-27 00:00:00
 ---
 
 **02/27/2017**
