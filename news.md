@@ -11,11 +11,12 @@ Here is where I'll post new information concerning the lab. For example: when I 
 ## Newest Post:
 
 ### <a href="/cs135{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>
-**02/27/2017**
+**03/01/2017**
 
-Hi, guys. I've been too busy to update the page lately but I do stay on top of anything concerning the graded Excercises.
+Hey, in addition to Exercise 7, the due dates for Exercises 8 and 9 have been extended as well!
 
-Mrs. Misch extended the due date of Exercise 7 so I'm updating everyone on the new due date: Tue, March 7th.
+Have a good weekend and as always, let me know if you have any questions! Either come into lab or 
+shoot me an email from the comfort of your own ̶ ̶b̶r̶i̶e̶f̶s̶  home.
 
 ## Old Posts:
 
