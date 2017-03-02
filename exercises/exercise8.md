@@ -13,7 +13,7 @@ Learn how to:
 - Use conditional loops (while).
 
 ### Due
-due by 11:59pm Fri, Mar 10
+due by 11:59pm F̶r̶i̶,̶ ̶M̶a̶r̶ ̶1̶0̶  Sun, Mar 12
 
 ### Point Value
 40
