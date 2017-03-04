@@ -38,9 +38,9 @@ Cin retrieves numbers, strings, and characters up to either a space or newline c
 
 A file with:
 
-2
-12
-16
+2 <br>
+12 <br>
+16 <br>
 
 Will also work fine with your Exercise 6.
 
