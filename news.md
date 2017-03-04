@@ -11,17 +11,26 @@ Here is where I'll post new information concerning the lab. For example: when I 
 ## Newest Post:
 
 ### <a href="/cs135{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>
-**03/03/2017**
+**03/04/2017**
 
-I've gotten a couple questions about Linux Redirection so I made a lesson about it to clear up any confusion you guys might have.
+I've finished grading Exercise 6. Like always, if you did not get an email from me with your grade, I did not receive your Exercise. 
+If you submitted the Exercise before the deadline and still did not receive a grade, please forward the email that you sent (through bobby) to me.
 
-Be sure to try out what I suggest in the lesson with your Exercise 6! It won't take long.
+Common mistakes I saw were: 
 
-One more thing! If you have a question about the Exercises, **please** send it in an email with a subject line like "Question about Exercise #" or something like that. 
+- Showing two answers when the derivative = 0. You should check for this case and only show one answer. Worse is not showing an answer at all for that case.
+Square root cannot be negative (without getting into complex numbers) but it most definitely can equal zero.
 
-Anything is OK really except subjects that are exactly like Exercise submission subjects (name, lec #, lab # etc...). I will immediately put these submissions into my corresponding Exercise folder until I'm ready to grade that Exercise and I will most likely not see it or see it only when it's too late.
+- Missing either the comment at the top of your program or output. 
+Look, I know it's annoying but I **have** to take points off if you're missing these. Just assume from now on that **every** single Exercise is going to ask you to have your full name, lecture #, lab #, and Exercise # in these three places: 
 
-That's why it's also important to have the correct Exercise number in the subject line. I will put it in the wrong folder (although I do try my best to check for that).
+1. As a comment at the top of your program. (You can have another comment block about your program Ex: This is a program that does ... It's expected inputs are ... and it outputs ... etc but make sure you put it below this comment)
+2. Printed to the screen via a cout statement before any other program output
+3. In the subject line of the email you send to me (make sure the Exercise # is correct)
+
+It might be a good idea to create a "template" file with the first two taken care of so you don't forget (just make sure to change the Exercise #!)
+
+I sure as heck am not going to take OFF points if you have all three of these and the Exercise just happens to not ask for it that time.
 
 ## Old Posts:
 
