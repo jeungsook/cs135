@@ -11,12 +11,11 @@ Here is where I'll post new information concerning the lab. For example: when I 
 ## Newest Post:
 
 ### <a href="/cs135{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>
-**03/01/2017**
+**03/03/2017**
 
-Hey, in addition to Exercise 7, the due dates for Exercises 8 and 9 have been extended as well!
+I've gotten a couple questions about Linux Redirection so I made a lesson about it to clear up any confusion you guys might have.
 
-Have a good weekend and as always, let me know if you have any questions! Either come into lab or 
-shoot me an email from the comfort of your own b̶r̶i̶e̶f̶s̶  home.
+Be sure to try out what I suggest in the lesson with your Exercise 6! It won't take long.
 
 ## Old Posts:
 
