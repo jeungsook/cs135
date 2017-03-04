@@ -24,3 +24,4 @@ by 11:59pm S̶u̶n̶,̶ ̶M̶a̶r̶ ̶5̶  Tue, March 7
 
 ### Tips
 - How many times are you going to loop? It changes for every set of data.
+- You might want to read the lesson on Linux Redirection
