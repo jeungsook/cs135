@@ -22,3 +22,5 @@ Look, I know it's annoying but I **have** to take points off if you're missing t
 3. In the subject line of the email you send to me (make sure the Exercise # is correct)
 
 It might be a good idea to create a "template" file with the first two taken care of so you don't forget (just make sure to change the Exercise #!)
+
+I sure as heck am not going to take OFF points if you have all three of these and the Exercise just happens to not ask for it that time.
