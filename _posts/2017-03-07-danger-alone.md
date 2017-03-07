@@ -11,14 +11,13 @@ I asked him to go over Exercise 7, Linux redirection, and for loops, I hope that
 
 But, this news post is a response from an email asking me if I can answer questions about Exercises through emails:
 
-I'm here to help you! Of course you can email me questions! You can come to my office hours and I will go over your previous Exercises with you
-or explain your current Exercises, Assignments, or test questions, or whatever you like. Or you can ask me during lab hours.
+I'm here to help you! Of course you can email me questions! You can come to my office hours and I will go over your previous Exercises with you or explain your current Exercises, Assignments, or test questions, or whatever you like. Or you can ask me during lab hours. (I don't always sit at the front during my office hours, sometimes I sit at the back but I'm always there
+at those times).
 
 Also, if you want me to cover something specifically in the lab, just ask and I'd be happy to.
 
 If that something is "the entire code solution for Exercise 7" we're going to have problems but that doesn't mean you can't ask
-me ANYTHING. It's great that you guys want to figure out everything yourself but if you're really stuck, don't hesitate, waste time,
-or suffer in silence! 
+me ANYTHING. It's great that you guys want to figure out everything yourself but if you're really stuck, don't hesitate, waste time, or suffer in silence! 
 
 I try my best to respond to emails as fast as I can but I can't help you (grade-wise) after the due date so shoot out your SOS ASAP.
 
