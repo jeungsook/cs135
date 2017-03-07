@@ -24,7 +24,7 @@ I try my best to respond to emails as fast as I can but I can't help you (grade-
 
 It's dangerous to go alone! Take this:
 
- ^ <br>
- | <br>
- T <br>
+ &nbsp;&nbsp;&nbsp;&nbsp;^ <br>
+ &nbsp;&nbsp;&nbsp;&nbsp;| <br>
+ &nbsp;&nbsp;&nbsp;&nbsp;T <br>
 \\(^o^)/
