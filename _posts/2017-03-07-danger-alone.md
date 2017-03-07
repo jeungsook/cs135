@@ -28,3 +28,10 @@ It's dangerous to go alone! Take this:
 &nbsp;&nbsp;&nbsp;&nbsp;| <br>
 &nbsp;&nbsp;&nbsp;&nbsp;T <br>
 \\(^o^)/
+
+```
+   ^
+   |
+   T
+\(^o^)/
+```
