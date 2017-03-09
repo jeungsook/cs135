@@ -11,31 +11,15 @@ Here is where I'll post new information concerning the lab. For example: when I 
 ## Newest Post:
 
 ### <a href="/cs135{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>
-**03/07/2017**
+**03/09/2017**
 
-So, as anyone who came to yesterday's lab already knows, I was pretty sick yesterday and had Joel cover for me.
-I asked him to go over Exercise 7, Linux redirection, and for loops, I hope that cleared up some of the questions about Exercise 7!
+I've finished grading Exercise 7. Like always, if you did not get an email from me with your grade, I did not receive your Exercise. 
+If you submitted the Exercise before the deadline and still did not receive a grade, please forward the email that you sent (through bobby) to me.
 
-But, this news post is a response from an email asking me if I can answer questions about Exercises through emails:
+Note: I always wait a day before sending Exercise scores to the professors in case you guys have any questions or issues about your grade. 
+Please send any questions about your grade in within a day of recieving your grade if possible.
 
-I'm here to help you! Of course you can email me questions! You can come to my office hours and I will go over your previous Exercises with you or explain your current Exercises, Assignments, or test questions, or whatever you like. Or you can ask me during lab hours. (I don't always sit at the front during my office hours, sometimes I sit at the back but I'm always there
-at those times).
-
-Also, if you want me to cover something specifically in the lab, just ask and I'd be happy to.
-
-If that something is "the entire code solution for Exercise 7" we're going to have problems but that doesn't mean you can't ask
-me ANYTHING. It's great that you guys want to figure out everything yourself but if you're really stuck, don't hesitate, waste time, or suffer in silence! 
-
-I try my best to respond to emails as fast as I can but I can't help you (grade-wise) after the due date so shoot out your SOS ASAP.
-
-It's dangerous to go alone! Take this:
-
-```
-   ^
-   |
-   T
-\(^o^)/
-```
+Overall, we didn't do so hot with Exercise 7. I will go over it briefly next lab before going over Exercise 8 & 9.
 
 ## Old Posts:
 
