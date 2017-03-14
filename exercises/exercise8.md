@@ -30,6 +30,6 @@ Here's one of the files I used to test your program:
 
 Expected Output:
 ```
-Average # of letters per sentence is 22.200
+Average # of letters per sentence is 22.300
 Total # of digits in the file is 8
 ```
