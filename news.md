@@ -11,15 +11,11 @@ Here is where I'll post new information concerning the lab. For example: when I 
 ## Newest Post:
 
 ### <a href="/cs135{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>
-**03/09/2017**
+**03/13/2017**
 
-I've finished grading Exercise 7. Like always, if you did not get an email from me with your grade, I did not receive your Exercise. 
-If you submitted the Exercise before the deadline and still did not receive a grade, please forward the email that you sent (through bobby) to me.
+So! I went over EX7, EX8 pretty thoroughly and broke down EX9 today. Did it help? Feel free to email me feedback. 
 
-Note: I always wait a day before sending Exercise scores to the professors in case you guys have any questions or issues about your grade. 
-Please send any questions about your grade in within a day of recieving your grade if possible.
-
-Overall, we didn't do so hot with Exercise 7. I will go over it briefly next lab before going over Exercise 8 & 9.
+I put up the files for EX7 and EX8 that I showed you in class and their expected outputs. You can find them in their respective Exercise tabs at the very bottom.
 
 ## Old Posts:
 
