@@ -36,3 +36,26 @@ Common mistakes:
 
 Here's the file I used to test your program:
 [Download](https://raw.githubusercontent.com/jeungsook/cs135/master/exercises/2)
+
+
+Expected Output:
+```
+21 is deficient.
+0 is not abundant, deficient, or perfect.
+69 is deficient.
+6 is perfect.
+34 is deficient.
+28 is perfect.
+31 is deficient.
+18 is abundant and has 6 factors.
+496 is perfect.
+100 is abundant and has 9 factors.
+5 is deficient.
+50 is deficient.
+-74 is not abundant, deficient, or perfect.
+47 is deficient.
+10 is deficient.
+8128 is perfect.
+36 is abundant and has 9 factors.
+33550336 is perfect.
+```
