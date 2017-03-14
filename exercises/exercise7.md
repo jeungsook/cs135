@@ -34,7 +34,7 @@ Common mistakes:
 
 ### Test Your Program
 
-Here's the file I used to test your program:
+Here's one of the files I used to test your program:
 [Download](https://raw.githubusercontent.com/jeungsook/cs135/master/exercises/2)
 
 
