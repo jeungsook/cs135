@@ -31,3 +31,8 @@ by 11:59pm S̶u̶n̶,̶ ̶M̶a̶r̶ ̶5̶  Tue, March 7
 Common mistakes: 
 - Not testing your program with various sized data and "outliers".
 - Overcomplicating the algorithm
+
+### Test Your Program
+
+Here's the file I used to test your program:
+[Download](https://raw.githubusercontent.com/jeungsook/cs135/master/exercises/2)
