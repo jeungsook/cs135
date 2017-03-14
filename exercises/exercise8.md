@@ -27,3 +27,9 @@ due by 11:59pm F̶r̶i̶,̶ ̶M̶a̶r̶ ̶1̶0̶  Sun, Mar 12
 
 Here's one of the files I used to test your program:
 [Download](https://raw.githubusercontent.com/jeungsook/cs135/master/exercises/5)
+
+Expected Output:
+```
+Average # of letters per sentence is 22.200
+Total # of digits in the file is 8
+```
