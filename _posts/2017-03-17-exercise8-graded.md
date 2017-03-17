@@ -16,11 +16,9 @@ That was how punctuation marks were handled.
 
 If you read the instructions carefully, it states:
 
-```
 A data file for this exercise will consist of several lines of text that form sentences. 
 The text may include letters, **punctuation marks**, and/or digits. 
 Each sentence will be **terminated with either a period (.), an exclamation mark (!), or a question mark (?).**
-```
 
 The file can include punctuation marks such as commas and quotation marks in addition to the end punctuation marks.
 The sample output file just happened to not contain them but my (2nd) test file did.
