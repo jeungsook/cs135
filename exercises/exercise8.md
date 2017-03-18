@@ -51,3 +51,13 @@ Expected Output:
 Average # of letters per sentence is 22.300
 Total # of digits in the file is 8
 ```
+
+**UPDATE**
+Here's another file (with commas and apostrophes) to test your program with:
+[Download](https://raw.githubusercontent.com/jeungsook/cs135/master/exercises/6)
+
+Expected Output:
+```
+Average # of letters per sentence is 18.455
+Total # of digits in the file is 16
+```
