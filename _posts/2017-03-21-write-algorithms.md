@@ -16,17 +16,17 @@ I would argue that you should have been writing algorithms since Exercise 4 and 
 from this point onwards. Mrs. Misch has a programming "10 Commandments" that you may or may not have seen depending on whether you're
 in her class or have checked out the UNLV tux website thoroughly. Here they are again to refresh your memories:
 
-Lee's Ten Commandments for CS 135
-I) Thou shalt read the book and notes.
-II) Thou shalt begin the program immediately.
-**III) Thou shalt work the problem out by hand first.**
-**IV) Thou shalt develop an algorithm.**
-V) Thou shalt not covet thy neighbor's code.
-VI) Thou shalt not use global variables.
-VII) Thou shalt comment thine code.
-VIII) Thou shalt test thine code.
-IX) Thou shalt add more comments to thine code.
-X) Thou shalt test thine code again.
+Lee's Ten Commandments for CS 135: <br>
+I) Thou shalt read the book and notes.<br>
+II) Thou shalt begin the program immediately.<br>
+**III) Thou shalt work the problem out by hand first.**<br>
+**IV) Thou shalt develop an algorithm.**<br>
+V) Thou shalt not covet thy neighbor's code.<br>
+VI) Thou shalt not use global variables.<br>
+VII) Thou shalt comment thine code.<br>
+VIII) Thou shalt test thine code.<br>
+IX) Thou shalt add more comments to thine code.<br>
+X) Thou shalt test thine code again.<br>
 
 Three and four are what I'm pushing from now on. **I won't help you in lab or office hours unless you can show me an algorithm
 for the Exercise or Assignment you need help on.** Repeat: write algorithms. This is a really vital skill that you will need 
