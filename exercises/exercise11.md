@@ -23,5 +23,5 @@ due by 11:59pm Sun, Apr 23
 ### Download the pdf instructions for this exercise: [Download](https://github.com/jeungsook/cs135/raw/master/exercises/pdf/CS%20135%20Spring%202017%20Exercise%20%2311.pdf)
 
 ### Tips
-- Create functions for reading and writing files and reuse them in your future project / homework.
+- Create functions for reading and writing files and reuse them in your future projects / homework.
 - Remember that arrays are pass-by-reference by default
