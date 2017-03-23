@@ -11,17 +11,19 @@ Here is where I'll post new information concerning the lab. For example: when I 
 ## Newest Post:
 
 ### <a href="/cs135{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>
-**03/21/2017**
+**03/23/2017**
 
-Hey guys,
+Exercise #9 has been graded. Let me know if you have any issues with your grade but, please read the following before you do.
 
-If you're in my Mon lab I told you this already but, you really should write algorithms for Exercises 10 and 11.
-If you don't Exercise 10 in particular can get very needlessly complicated. If your algorithm-writing and problem-decomposition
-skills are lacking, it can also turn out complicated.
+Common mistakes I saw were:
 
-I would argue that you should have been writing algorithms since Exercise 4 and should for any and all programming projects
-from this point onwards. Mrs. Misch has a programming "10 Commandments" that you may or may not have seen depending on whether you're
-in her class or have checked out the UNLV tux website thoroughly. Here they are again to refresh your memories:
+- Not checking both the height and width of the rectangle. If **either one or the other** is < 2, then the message should have been displayed
+- Not printing out the triangle with the "right" justification (pun intended)
+
+A big one (but thankfully not common) was creating the program from scratch. Read the directions carefully from now on.
+
+In my last news post, I mentioned the issue with submitting your Exercise in the 11:50-12:06am range.
+Please start your programs earlier and ask me questions / come to the labs if you're stuck.
 
 Lee's Ten Commandments for CS 135: <br>
 I) Thou shalt read the book and notes.<br>
