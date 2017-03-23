@@ -22,4 +22,6 @@ due by 11:59pm Sun, Apr 2
 ### Download the pdf instructions for this exercise: [Download](https://github.com/jeungsook/cs135/raw/master/exercises/pdf/CS%20135%20Spring%202017%20Exercise%20%2310.pdf)
 
 ### Tips
-- Coming Soon
+- Write an algorithm for this Exercise. This one can become really needlessly complicated.
+- If you need me to explain void and / or value returning functions to you in lab, just ask.
+- Don't try to do everything at once.
