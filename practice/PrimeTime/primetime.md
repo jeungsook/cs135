@@ -29,7 +29,7 @@ Ex:
 
 ### Extra Challenge:
 * Format the output into a nice table like the example (it does not matter how long the numbers get, all the numbers will line up nicely)
-* Try to do the above without setw :P (my code does not use setw)
+* Try to do the above without setw (my code does not use setw)
 
 ### Tips / Hints:
 - Understand your algorithm before you jump in
