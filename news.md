@@ -11,19 +11,12 @@ Here is where I'll post new information concerning the lab. For example: when I 
 ## Newest Post:
 
 ### <a href="/cs135{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>
-**03/23/2017**
+**03/24/2017**
 
-Exercise #9 has been graded. Let me know if you have any issues with your grade but, please read the following before you do.
+I've posted the Bubblesort handout that is linked in the Exercise 11 pdf. I realized that only students in Mrs. Misch's classes had
+access to it, which isn't fair.
 
-Common mistakes I saw were:
-
-- Not checking both the height and width of the rectangle. If **either one or the other** is < 2, then the message should have been displayed
-- Not printing out the triangle with the "right" justification (pun intended)
-
-A big one (but thankfully not common) was creating the program from scratch. Read the directions carefully from now on.
-
-In my last news post, I mentioned the issue with submitting your Exercise in the 11:50pm-12:06am range.
-Please start your programs earlier and ask me questions / come to the labs if you're stuck.
+You can find the link to download the file under the Exercise 11 tab.
 
 ## Old Posts:
 
