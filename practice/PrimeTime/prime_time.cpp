@@ -1,7 +1,7 @@
 //##############################################################//
-//				        Prime Time	        					//					
-//		    Generates all of the primes up to a                 //
-//          specified number                	                //
+//		                    Prime Time	        			    //					
+//                  Generates all of the primes up to a         //
+//                          specified number                	//
 //##############################################################//
 
 // Jeung-Sook Williams jeung-sook.williams@unlv.edu
