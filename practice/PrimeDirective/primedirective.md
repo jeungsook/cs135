@@ -16,7 +16,7 @@ Create a program that takes an integer input and tells you whether or not the nu
 2. Determine if the number is prime
 3. Print out result
 
-### Extra:
+### Extra Challenge:
 * There are several ways to do this. My code is the simplest method. Try and create a more efficient way of determining prime.
          
 ### Tips / Hints:
