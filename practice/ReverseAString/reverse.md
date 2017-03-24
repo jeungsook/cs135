@@ -16,7 +16,7 @@ Create a program where you can type in a string and the program will reverse it 
 3. Reverse the string in main function or create a separate function
 4. Output the reversed string
 
-### Extra:
+### Extra Challenge:
 * Create a loop and ask user if they want to reverse another string
          
 ### Tips / Hints:
