@@ -18,7 +18,7 @@ In this lesson I will cover:
 
 ### Value Returning Functions
 
-The only difference between a value returning function and a void function is that a value returning function must return a value and a void function must not return anything.
+The only difference between a value returning function and a void function is that a value returning function must return a value and a void function should not return anything.
 
 It's typical programming practice to place what is called a **function prototype** above your main function and the **function definition** below the main function.
 
@@ -61,3 +61,9 @@ double pow(double x, int y) {
 
 }
 ```
+
+Take some time to study the example. I left out the actual code portion of the pow function because I wanted to focus on the form and usage of the function rather than how its implemented.
+
+After you've written your function, you must make a **function call** in your main function or another function to utilize your function.
+
+You must remember that value-returning functions return a value and you must either store or use that value somehow or else there is a good chance the function will not do anything. (Depending on how you've programmed it).
