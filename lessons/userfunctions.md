@@ -66,4 +66,27 @@ Take some time to study the example. I left out the actual code portion of the p
 
 After you've written your function, you must make a **function call** in your main function or another function to utilize your function.
 
-You must remember that value-returning functions return a value and you must either store or use that value somehow or else there is a good chance the function will not do anything. (Depending on how you've programmed it).
+You must remember that value-returning functions return a value and you need to either store or use that value somehow.
+
+Ex:
+
+```c++
+answer = pow(num,power);
+OR
+if (pow(num,power) > 10000) {...}
+```
+
+Basically, value returning functions are not unlike the functions you're familiar with in math.
+```
+          intput(s) (aka arguments)
+             |
+             |
+             v
+[function(input(s))] ---> output
+```
+
+### Void Functions
+
+Void functions take inputs as well, but they do not return anything. They work instead by modifying the variables you pass to them and/or global variables (please avoid using global variables other than constants), calling functions, etc...
+
+I could turn the pow function I used in the previous example into a void function with some modifications, but that function makes the more sense as a value-returning function.
