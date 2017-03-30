@@ -85,8 +85,50 @@ Basically, value returning functions are not unlike the functions you're familia
 [function(input(s))] ---> output
 ```
 
+A few other things about functions you may have noticed (that also apply to void functions as well):
+- A function prototype does not have to include argument names, just their types, however you can include names if you want to
+- A function's argument's name does not have to remain the same from the "scope" from which it is called to the function's scope (more on scopes further down)
+- The pow function I created takes a double argument and an int argument however, I passed it two ints. This is acceptable due to something called type coercion. Basically, ints are similar enough to doubles that C++ automatically converts your int argument to match. Ex: 4 becomes 4.0. Note, that the return type is also double, hence that sticky question on Exercise 5 that most of you got wrong. C++ does quite a few coercions betweem different types but don't worry if you don't understand that completely yet. You will learn more about type coercion in CS202.
+
 ### Void Functions
 
-Void functions take inputs as well, but they do not return anything. They work instead by modifying the variables you pass to them and/or global variables (please avoid using global variables other than constants), calling functions, etc...
+Void functions take inputs as well, but they do not return anything. Instead, they work by modifying the variables you pass to them and/or global variables (please avoid using global variables other than constants), calling functions, recieving input, or handling output, etc... 
 
-I could turn the pow function I used in the previous example into a void function with some modifications, but that function makes the more sense as a value-returning function.
+Let's take that pow function from the previous example and convert it into a void function. The function definition is not the only thing we have to change ofcourse. I've put three asterisks in front of the lines I've changed.
+
+```c++
+#include <iostream>
+
+using namespace std;
+***void pow(double, double&, int); // <--- function prototype
+
+int main() {
+
+  int num, power;
+  double answer;
+
+  cout << "Enter the number and the power you want to raise it to: ";
+  cin >> num >> power;
+
+  ***pow(num,answer,power); // <--- function call
+
+  cout << num << " to the " << power << " power is: " << answer << endl;
+
+  return 0;
+}
+
+// function definition 
+***void pow(double x, double& answer, int y) {
+
+  double answer;
+
+  /*
+  Main pow function code here
+  */
+
+}
+```
+
+1. The function prototype. I changed function datatype from double to void and added another double (the answer variable we want to modify)
+2. The function call. Now there is no need to "catch" the return value of pow (since there is none)
+3. The function definition. Changed function datatype to void and added the answer argument. Removed return answer. Depending on the way you've coded your function, there may be other changes within the function definition that you need to make.
