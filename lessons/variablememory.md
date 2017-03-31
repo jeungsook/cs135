@@ -1,10 +1,10 @@
 ---
 layout: pages
-title:  "Allocating Memory"
-permalink: /lessons/allocatingmemory/
+title:  "Variables in Memory"
+permalink: /lessons/variablememory/
 ---
 
-## How Variables Allocate Memory and Store Values
+## How Computers Allocate Memory and Store Values for your Variables
 
 Remember that variable names are only nice, readable names of certain memory locations. (Which are actually referenced by the computer 
 using hex values). When you declare a variable, the computer goes and finds a free memory block of the size that you need and allocates 
