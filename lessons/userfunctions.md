@@ -139,7 +139,7 @@ However, in order for this function to work as intended, I needed to pass a vari
 When you pass a variable by value, when the program enters the function's scope it **copies** that variable's value. In the first example, the value of num is copied into x, and the value of power is copied into y when the function is called.
 
 I created a lesson about allocating memory along with this one that you might want to read to understand this concept and the next
-one better: [LINK](https://jeungsook.github.io/cs135/lessons/allocatingmemory/)
+one better: [LINK](https://jeungsook.github.io/cs135/lessons/variablememory/)
 
 Say, I type in 4 for num and 2 for power. This is what would happen in the first example:
 ![ret1](https://raw.githubusercontent.com/jeungsook/cs135/master/images/function1.png)
