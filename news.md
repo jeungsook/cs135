@@ -11,12 +11,15 @@ Here is where I'll post new information concerning the lab. For example: when I 
 ## Newest Post:
 
 ### <a href="/cs135{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>
-**03/24/2017**
+**03/31/2017**
 
-I've posted the Bubblesort handout that is linked in the Exercise 11 pdf. I realized that only students in Mrs. Misch's classes had
-access to it, which isn't fair.
+I've posted that lesson that I said I was going to create. It's a big one (more like 3 lessons in one) so check it out here:
+[LINK](https://jeungsook.github.io/cs135/lessons/userfunctions/)
 
-You can find the link to download the file under the Exercise 11 tab.
+I also made a short lesson on how computers allocate memory for variables. I was going to put it in the function lesson, but that was just
+getting too huge.
+
+Also, it looks like Exercise 10 and 11 are going to be the last lessons in this class (I thought there were going to be two more).
 
 ## Old Posts:
 
