@@ -167,6 +167,8 @@ Now, main will pass answer by reference, which means that instead of sending pow
 
 Again, please read the lesson on allocating memory if you haven't already if this confuses you.
 
+**One important detail:** Arrays are passed by reference by default. You do not have to put an ampersand infont of an array name. This is due to the fact that arrays can be very large. We typically do not want to make copies of data structures in general.
+
 The ampersand (&) symbol is called the address-of operator in C++. Basically, you can use it to grab a variable's address rather than it's value.
 
 Ex:
