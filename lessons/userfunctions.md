@@ -28,7 +28,6 @@ Here is an example program which uses a value-returning function (the bare bones
 
 ```c++
 #include <iostream>
-
 using namespace std;
 
 double pow(double, int); // <--- function prototype
@@ -98,8 +97,8 @@ Let's take that pow function from the previous example and convert it into a voi
 
 ```c++
 #include <iostream>
-
 using namespace std;
+
 ***void pow(double, double&, int); // <--- function prototype
 
 int main() {
@@ -120,8 +119,6 @@ int main() {
 // function definition 
 ***void pow(double x, double& answer, int y) {
 
-  double answer;
-
   /*
   Main pow function code here
   */
@@ -131,4 +128,102 @@ int main() {
 
 1. The function prototype. I changed function datatype from double to void and added another double (the answer variable we want to modify)
 2. The function call. Now there is no need to "catch" the return value of pow (since there is none)
-3. The function definition. Changed function datatype to void and added the answer argument. Removed return answer. Depending on the way you've coded your function, there may be other changes within the function definition that you need to make.
+3. The function definition. Changed function datatype to void and added the answer argument. Removed answer declaration and return. Depending on the way you've coded your function, there may be other changes within the function definition that you need to make.
+
+Now the program functions exactly as it did before.
+
+However, in order for this function to work as intended, I needed to pass a variable by reference. Now I'll go over the difference between pass-by-value and pass-by-reference.
+
+### Pass by value
+
+When you pass a variable by value, when the program enters the function's scope it **copies** that variable's value. In the first example, the value of num is copied into x, and the value of power is copied into y when the function is called.
+
+I created a lesson about allocating memory along with this one that you might want to read to understand this concept and the next
+one better: [LINK](https://jeungsook.github.io/cs135/lessons/allocatingmemory/)
+
+Say, I type in 4 for num and 2 for power. This is what would happen in the first example:
+![ret1](https://raw.githubusercontent.com/jeungsook/cs135/master/images/function1.png)
+
+After calculation, double answer will contain 16, and it will return that value to the main function.
+
+Note that the double answer in main does not point to the same location as the double answer in pow. Therefore we have to assign
+main's answer to the value that pow returns:
+
+answer = pow(num, power);
+
+Now let's look at the next example **WITHOUT** passing by reference.
+
+![ret1](https://raw.githubusercontent.com/jeungsook/cs135/master/images/function2.png)
+
+What a mess. Pow will copy the value of answer (which at this point is just garbage data). Then, pow will calculate the correct answer within its scope however, void functions do not return anything, so when the main function goes to cout the answer, it will cout its own answer variable, which still contains garbage.
+
+Now let's look at what the correct pow function does.
+
+![ret1](https://raw.githubusercontent.com/jeungsook/cs135/master/images/function3.png)
+
+Now, main will pass answer by reference, which means that instead of sending pow the value of the variable, main will send the address of the variable (its memory location) instead. Pow, when it makes any changes to answer, will be editing the memory location of the variable answer itself. Thus, when main goes to cout answer, it will print the correct value.
+
+Again, please read the lesson on allocating memory if you haven't already if this confuses you.
+
+The ampersand (&) symbol is called the address-of operator in C++. Basically, you can use it to grab a variable's address rather than it's value.
+
+Ex:
+
+```c++
+int* ptr;
+ptr = &num;
+```
+
+Now ptr holds the address of num. Like I said, you will cover pointers in much more depth in CS202 but this might help you understand why you write double& answer (or double &answer, spaces do not matter) in order to grab the address of answer and why when you modify answer now, it will change answer in int main as well despite the fact that they do not share the same scope.
+
+### Scope
+
+So I've been talking about scope throughout this lesson (which really is more like 3 lessons in one) so I will wrap up with what scope actually is.
+
+Basically, the whole reason we have to pass arguments to functions to begin with is due to scope. In our examples, we could not read num and power nor could we write to answer directly.
+
+For example, had num, power, and answer been global variables, you would not have had to pass void pow anything. But, if you do that, your professors will be mad at you and the fabric of time and space will collapse, so don't.
+
+Anything within these curly bracets you've been using '{ }' have their own scope. The rule is, a scope nested within another scope (an inner scope) can "see" the variables of the outer scope, but not the other way around. Scopes that are on the same level cannot see each other's variables.
+
+Ex:
+
+```c++
+
+const int A;
+
+int main() {
+
+  int B;
+
+  if (this happens) {
+    int C;
+
+    // HEY! I can see A and B from here!
+
+  }
+
+  for (int i = 0; i < A; i++) {
+
+   // Yeah, I can see A and B, what of it?
+   // C? What's a C?
+   
+    for (int k = 1; k < B; k++) {
+      // Yo, I can see A and B even from in here, cool!
+      // I can see i too!
+      // Nope, C is still a no-go.
+    }
+
+  }
+
+  // 'Sup, main here. Yep, I can see A! What? Ofcourse I can see B, it's my own local variable.
+  // No i can't C, k! *Gufaw, gufaw, gufaw!* That was a good one (I can't see i, C, or k)
+
+}
+
+void function() {
+  // Guys, invite me to the party too! I can't see anything other than A.   ._.
+}
+```
+
+Well, that wraps up this lesson. As always, let me know if you have any questions.
