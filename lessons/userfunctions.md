@@ -159,6 +159,8 @@ What a mess. Pow will copy the value of answer (which at this point is just garb
 
 Now let's look at what the correct pow function does.
 
+### Pass by reference
+
 ![ret1](https://raw.githubusercontent.com/jeungsook/cs135/master/images/function3.png)
 
 Now, main will pass answer by reference, which means that instead of sending pow the value of the variable, main will send the address of the variable (its memory location) instead. Pow, when it makes any changes to answer, will be editing the memory location of the variable answer itself. Thus, when main goes to cout answer, it will print the correct value.
