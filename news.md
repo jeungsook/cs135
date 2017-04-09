@@ -11,15 +11,18 @@ Here is where I'll post new information concerning the lab. For example: when I 
 ## Newest Post:
 
 ### <a href="/cs135{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>
-**03/31/2017**
+**04/09/2017**
 
-I've posted that lesson that I said I was going to create. It's a big one (more like 3 lessons in one) so check it out here:
-[LINK](https://jeungsook.github.io/cs135/lessons/userfunctions/)
+Exercise 10 has been graded. As always, let me know if you haven't recieved your grade even though you submitted it.
 
-I also made a short lesson on how computers allocate memory for variables. I was going to put it in the function lesson, but that was just
-getting too huge.
+Common mistates:
+- Not removing spaces
+- Last word missing
 
-Also, it looks like Exercise 10 and 11 are going to be the last lessons in this class (I thought there were going to be two more).
+Overall, I think everyone did well with following the Exercise's directions this time around (everyone had at least one user-defined function).
+Keep it up for the last Exercise.
+
+Enjoy your Spring Break!
 
 ## Old Posts:
 
