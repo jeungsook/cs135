@@ -39,7 +39,6 @@ Common mistates:
 
 Here are the files I used to test your programs and their expected outputs:
 Right click > Save link as...
-
 [Download](https://raw.githubusercontent.com/jeungsook/cs135/master/exercises/11_1)
 
 Expected Output:
