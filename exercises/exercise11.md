@@ -39,6 +39,8 @@ Common mistates:
 
 Here are the files I used to test your programs and their expected outputs:
 
+Do **NOT** open this and copy and paste it into emacs. Download the file directly. If you copy and paste it into emacs, it will not have a terminating linefeed. If you read the Exercise 11 directions it states: the last line in the data file will be terminated with a linefeed ('\n')
+
 Right click > Save link as...
 [Download](https://raw.githubusercontent.com/jeungsook/cs135/master/exercises/11_1)
 
@@ -77,6 +79,8 @@ List of Numbers
 Average = 50.278
 Median = 45.515
 ```
+
+Do **NOT** open this and copy and paste it into emacs. Download the file directly. If you copy and paste it into emacs, it will not have a terminating linefeed. If you read the Exercise 11 directions it states: the last line in the data file will be terminated with a linefeed ('\n')
 
 Right click > Save link as...
 [Download](https://raw.githubusercontent.com/jeungsook/cs135/master/exercises/11_2)
