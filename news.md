@@ -11,18 +11,19 @@ Here is where I'll post new information concerning the lab. For example: when I 
 ## Newest Post:
 
 ### <a href="/cs135{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>
-**04/09/2017**
+**04/30/2017**
 
-Exercise 10 has been graded. As always, let me know if you haven't recieved your grade even though you submitted it.
+Well, that wraps up the last Exercise guys! You're almost there, keep up the good work!
 
 Common mistates:
-- Not removing spaces
-- Last word missing
+- Copy and pasting the bubblesort function directly without editing it to work with floats/doubles instead of integers
+- Not setting the precision for the number list output to 1
+- Not incrementing count correctly (setting it one too high)
 
-Overall, I think everyone did well with following the Exercise's directions this time around (everyone had at least one user-defined function).
-Keep it up for the last Exercise.
+I will put the test files I used for this Exercise under the Exercise 11 tab.
 
-Enjoy your Spring Break!
+If you have any questions about your grades for any of the Exercises, please send them asap. 
+I will be turning grades into the professors shortly.
 
 ## Old Posts:
 
