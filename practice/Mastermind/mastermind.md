@@ -71,9 +71,11 @@ It took you 5 guesses to break the code.
 Notes: In my Mastermind program:
 
 F
+
 Ø   = Black Key
 
 F
+
 O   = White Key
 
 You can set the code through the command line arguments:
