@@ -11,10 +11,10 @@ Here is where I'll post new information concerning the lab. For example: when I 
 ## Newest Post:
 
 ### <a href="/cs135{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>
-**05/04/2017**
+**07/26/2017**
 
-Sorry for the short notice today, but there is no office hours today. I am very busy with the senior design competition.
-Email me if you're having trouble with Assignment 5!
+I uploaded a new practise program. It's a game called Mastermind. It should provide a good end-of-CS135 challenge.
+Read the rules carefully and let me know if you need more input to test your program.
 
 ## Old Posts:
 
