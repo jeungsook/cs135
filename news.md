@@ -11,10 +11,9 @@ Here is where I'll post new information concerning the lab. For example: when I 
 ## Newest Post:
 
 ### <a href="/cs135{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>
-**07/26/2017**
+**08/26/2017**
 
-I uploaded a new practise program. It's a game called Mastermind. It should provide a good end-of-CS135 challenge.
-Read the rules carefully and let me know if you need more input to test your program.
+This is not news. This is a test post to test the things that need testing in a way that the testiness of the testing material that is being tested will not give way to being testy due to testostorone because too much of that may test your ability to resist testocular illnesses. I would recommend getting re-tested.
 
 ## Old Posts:
 
