@@ -1,6 +1,6 @@
 # Welcome to UNLV CS135 Lab!
 
-Hello! This page was created for the CS135 Lab sections 1011 and 1012 at UNLV but feel free to use it even if you aren't in my sections!
+Hello! This page was created for the CS135 Lab sections 1004, 1005, 1017, and 1014 at UNLV but feel free to use it even if you aren't in my sections!
 
 Here you'll find lessons on how to program in C++ as well as example projects for you to challenge yourself with! Complete code of all **practice** projects will be provided so you can compare your code to mine (I also provide tips for the graded exercises).
 
@@ -10,13 +10,16 @@ Here you'll find lessons on how to program in C++ as well as example projects fo
 - Email: jeung-sook.williams@unlv.edu
 - Office hours in TBE B361:
 
-    Tuesday and Thursday: 11:30am-12:20pm
+    To Be Announced
 
-- Sections:
+- Lab sections in TBE B361:
 
-    1011, Monday 5:30-6:20pm
-
-    1012, Wednesday 5:30-6:20pm
+    1004: Friday 9:30am – 10:30am
+    1005: Friday 10:30am – 11:30am
+    1017: Friday 1:30pm – 2:30pm
+    1014: Friday 5:30pm – 6:30pm
+    
+...from 08/28/2017 – 12/09/2017
 
 ### GitHub
 
