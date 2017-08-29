@@ -4,23 +4,22 @@ title:  "Exercise 2"
 permalink: /exercise2/
 ---
 
-## Generating Output 
+## Editing a File, C++ Comments
 
 ### Summary
 
 Learn how to:
 
-- Use the cout statement to print output to the screen
-- Use the mail command from bobby.cs.unlv.edu to email exercises
+- Edit a file with either emacs or vim
+- Add comments to your program
 
 ### Due
-by 11:59pm Tues, Jan 31
+by 11:59pm Fri, Sep 8
 
 ### Point Value
-15
+10
 
-### Download the pdf instructions for this exercise: [Download](https://github.com/jeungsook/cs135/raw/master/exercises/pdf/CS%20135%20Spring%202017%20Exercise%20%232.pdf)
+### Download the pdf instructions for this exercise: [Download](https://rawgit.com/jeungsook/cs135/master/exercises/pdf/CS%20135%20Fall%202017%20Exercise%20%232.pdf)
 
 ### Tips
-- It's not required that you create a new file, you can edit the file from exercise 1
-- If you want to know if your submission went through, you can ask me anytime before the due date
+- It might be helpful to create a template file you can use for future exercises which includes your header comment - However, remember to edit the Exercise #!
