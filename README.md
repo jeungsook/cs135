@@ -21,6 +21,15 @@ Here you'll find lessons on how to program in C++ as well as example projects fo
     
 ...from 08/28/2017 – 12/09/2017
 
+## Navigating the Site
+
+**Home:** This page, contains my information in case you need to get in touch with me or forget where to send your exercises.<br>
+**Intro:** Contains basic information that is vital to being successful in the lab.<br>
+**News:** Where I post all of the latest lab updates. Check it often or get a feed reader.<br>
+**Lessons:** If I get asked a question enough, I will make a lesson explaining it here.<br>
+**Exercises:** This is the real deal - your homework. You will lose points if you don't complete these by the due date!<br>
+**Practice:** Practice exercises created by yours truly. Completing them is *not* mandatory.<br>
+
 ### GitHub
 
 What is GitHub? GitHub (and more specifically, Git) is a version control platform / collabrative tool / social media platform for programmers!
