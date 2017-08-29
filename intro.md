@@ -7,8 +7,8 @@ permalink: /intro/
 ## See My Lab Intro Slides
 [CLICK THIS IF YOU HAVE ABSOLUTELY NO IDEA WHAT'S GOING ON]({{ site.url }}/cs135/CS135 Lab - Intro.pdf)
 
-Or print my lab cheat sheet (not the same as the slides): <br>
-[LAB CHEAT SHEET]({{ site.url }}/cs135/Computer Lab Notes.pdf)
+And print my lab notes: <br>
+[LAB NOTES]({{ site.url }}/cs135/Computer Lab Notes.pdf)
 
 ## Lab Instructor's Information
 <br>
