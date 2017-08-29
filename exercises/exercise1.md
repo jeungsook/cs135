@@ -21,7 +21,7 @@ Learn how to:
 ### Point Value
 10
 
-### Download the pdf instructions for this exercise: [Download](https://github.com/jeungsook/cs135/raw/master/exercises/pdf/CS 135 Fall 2017 Exercise #1.pdf)
+### Download the pdf instructions for this exercise: [Download](https://rawgit.com/jeungsook/cs135/master/exercises/pdf/CS%20135%20Fall%202017%20Exercise%20%231.pdf)
 
 ### Tips
 - Always compile and run your code on Bobby before submitting it
