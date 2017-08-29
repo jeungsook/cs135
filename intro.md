@@ -14,6 +14,15 @@ And print my lab notes: <br>
 <br>
 ![table](https://raw.githubusercontent.com/jeungsook/cs135/master/images/lab_instructor_table.png)
 
+## Navigating the Site
+
+### Home: Home page, contains my information in case you need to get in touch with me or forget where to send your exercises.
+### Intro: This page, contains basic information that is vital to being successful in the lab.
+### News: Where I post all of the latest lab updates. Check it often or get a feed reader.
+### Lessons: If I get asked a question enough, I will make a lesson explaining it here
+### Exercises: This is the real deal - your homework. You will lose points if you don't complete these by the due date!
+### Practice: Practice exercises created by yours truly. Completing them is *not* mandatory.
+
 ## Important Links
 
 ### UNLV TBE B361 Lab Website
