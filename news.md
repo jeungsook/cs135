@@ -13,7 +13,7 @@ Here is where I'll post new information concerning the lab. For example: when I 
 ### <a href="/cs135{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>
 **08/29/2017**
 
-Welcome to my CS135 Fall 2017 lab section! *pops party popper*
+Welcome to my CS135 Fall 2017 lab section! &ast;pops party popper&ast;
 
 Attendance in the lab is *not* mandatory. You may complete and submit your exercises and assignments completely from the comfort of
 your own homes. However, in the labs I will talk about upcoming exercises, go over past exercises, answer questions, go over
