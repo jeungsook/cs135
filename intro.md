@@ -12,7 +12,7 @@ And print my lab notes: <br>
 
 ## Lab Instructor's Information
 <br>
-![table](https://raw.githubusercontent.com/jeungsook/cs135/master/images/lab_instructor_table.jpg)
+![table](https://raw.githubusercontent.com/jeungsook/cs135/master/images/lab_instructor_table.png)
 
 ## Important Links
 
