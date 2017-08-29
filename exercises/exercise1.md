@@ -16,7 +16,7 @@ Learn how to:
 - Use the mail command to submit your exercises
 
 ### Due
-11:59pm Wed, September 6
+by 11:59pm Wed, Sep 6
 
 ### Point Value
 10
