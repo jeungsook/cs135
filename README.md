@@ -14,10 +14,10 @@ Here you'll find lessons on how to program in C++ as well as example projects fo
 
 - Lab sections in TBE B361:
 
-    1004: Friday 9:30am – 10:30am
-    1005: Friday 10:30am – 11:30am
-    1017: Friday 1:30pm – 2:30pm
-    1014: Friday 5:30pm – 6:30pm
+    1004: Friday 9:30am – 10:30am <br>
+    1005: Friday 10:30am – 11:30am <br>
+    1017: Friday 1:30pm – 2:30pm <br>
+    1014: Friday 5:30pm – 6:30pm <br>
     
 ...from 08/28/2017 – 12/09/2017
 
