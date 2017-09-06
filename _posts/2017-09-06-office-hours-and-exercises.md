@@ -1,7 +1,7 @@
 ---
 layout: pages
 title:  "Office Hours & Exercises"
-date:   2017-08-26
+date:   2017-09-06
 ---
 
 **09/06/2017**
