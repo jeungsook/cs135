@@ -11,37 +11,13 @@ Here is where I'll post new information concerning the lab. For example: when I 
 ## Newest Post:
 
 ### <a href="/cs135{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>
-**08/29/2017**
+**09/06/2017**
 
-Welcome to my CS135 Fall 2017 lab section! \*pops party popper\*
+I've posted my official office hours on the Home page. I'll be available in TBE B361 Mondays and Wednesdays between 12:00pm and 2:00pm if you need help with Exercises or Assignments.
 
-Attendance in the lab is *not* mandatory. You may complete and submit your exercises and assignments completely from the comfort of
-your own homes. However, in the labs I will talk about upcoming exercises, go over past exercises, answer questions, go over
-topics that you might be confused about, give you tips about the class in general, and help you with your exercises and assignments
-if you need it so I recommend attending the labs if you find yourself struggling.
+I've also posted the next two Exercises - 4 and 5 under the Exercises tab.
 
-Keep in mind that I may or may not talk throughout the whole hour. Some labs, I may find that I don't have much to talk about and leave 
-you to your work. I try to avoid simply rehashing your lectures after all. You can work and call out to me or come up to the front if you 
-need help. The times when I will have something to say are around when an exercise / assignment is due soon or after an exercise / assignment
-due date has just passed (just remember: I am not in charge of assignments, your professors are). But I'm always open to requests: if you
-want me to explain something for the benifit of the whole lab, just ask.
-
-I do try to complete the exercises myself if I have time so I can show you my program / code during the lab after the due date but I will not post
-the code on this page or email it to you.
-
-After a couple exercises, you should get used to how the submission and grading is going to look like in my lab. I should have explained it
-pretty well in the first lab but I will repeat the most important points here incase you missed it:
-
-1. Email your program / file to me using the mail command and follow all of the guidelines
-2. It is very important that you type the Exercise number in your subject line as such: Exercise #_number_
-3. Once I am finished grading your exercises, I will post a news update here
-4. If you have not recieved a grade sheet after I posted a news post about having completed grading, either your program was late and as a result, I could not grade it
-(I would have sent an email informing you of this) or I did not receive your program and you need to contact me asap
-
-That's all! If there are any major updates, like a due date change I will post about it here. If you have an RSS feed reader, add this page
-to get updated right away. I'm looking forward to a great semester with this lab! \ (•◡•) /
-
-P.S. I'm an undergraduate student like you. I don't bite. ʕ•ᴥ•ʔ
+Good luck!
 
 ## Old Posts:
 
