@@ -10,7 +10,7 @@ Here you'll find lessons on how to program in C++ as well as example projects fo
 - Email: jeung-sook.williams@unlv.edu
 - Office hours in TBE B361:
 
-    To Be Announced
+ Monday & Wednesday 12:00pm - 2:00pm
 
 - Lab sections in TBE B361:
 
