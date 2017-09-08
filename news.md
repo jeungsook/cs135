@@ -11,13 +11,11 @@ Here is where I'll post new information concerning the lab. For example: when I 
 ## Newest Post:
 
 ### <a href="/cs135{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>
-**09/06/2017**
 
-I've posted my official office hours on the Home page. I'll be available in TBE B361 Mondays and Wednesdays between 12:00pm and 2:00pm if you need help with Exercises or Assignments.
+**09/08/2017**
 
-I've also posted the next two Exercises - 4 and 5 under the Exercises tab.
-
-Good luck!
+Hey guys, I posted Exercises 6 & 7 on my page so you can get a head start on those!
+I will grade EX 1 over the weekend and have those out to you before Monday!
 
 ## Old Posts:
 
