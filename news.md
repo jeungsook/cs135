@@ -12,10 +12,12 @@ Here is where I'll post new information concerning the lab. For example: when I 
 
 ### <a href="/cs135{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>
 
-**09/08/2017**
+**09/09/2017**
 
-Hey guys, I posted Exercises 6 & 7 on my page so you can get a head start on those!
-I will grade EX 1 over the weekend and have those out to you before Monday!
+Exercise 1 has been graded. Now you know how to expect your grades. If you didn't get a gradesheet - email me asap!
+Also, I posted the other lab monitor's office hours on the info page.
+
+That's all, enjoy the rest of your weekend!
 
 ## Old Posts:
 
