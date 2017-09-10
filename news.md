@@ -12,12 +12,14 @@ Here is where I'll post new information concerning the lab. For example: when I 
 
 ### <a href="/cs135{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>
 
-**09/09/2017**
+**09/10/2017**
 
-Exercise 1 has been graded. Now you know how to expect your grades. If you didn't get a gradesheet - email me asap!
-Also, I posted the other lab monitor's office hours on the info page.
+Exercise 2 has been graded! Remember to have a similar comment at the top of every program you write for this class from now on, otherwise
+I have to take off points.
 
-That's all, enjoy the rest of your weekend!
+I sent an email about it because it's important but I'll restate it here: Please put the word "Question" somewhere in the subject line
+of your email if you have a question for me. I'm getting hundreds of submissions across all the exercises so it's hard for me to pick
+out questions if yours gets sent into a gradebox.
 
 ## Old Posts:
 
