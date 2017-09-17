@@ -12,7 +12,7 @@ permalink: /exercise7/
 - Use of selection structures (if statement)
 
 ### Due
-by 11:59pm Mon, Sep 18 
+by 11:59pm Fri, Oct 6
 
 ### Point Value
 20
