@@ -11,7 +11,7 @@ permalink: /exercise6/
 - Learn how C++ evaluates certain equations
 
 ### Due
-by 11:59pm Mon, Sep 18 
+by 11:59pm Fri, Sep 22
 
 ### Point Value
 20
