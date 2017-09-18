@@ -12,11 +12,9 @@ Here is where I'll post new information concerning the lab. For example: when I 
 
 ### <a href="/cs135{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>
 
-**09/17/2017**
+**09/18/2017**
 
-Exercise 3 has been graded. As always, let me know if you submitted & didn't get a gradesheet or if there's any issues.
-
-I will grade Exercise 4 as soon as I can.
+Ah well, I drank a cup of coffee and couldn't sleep so I graded your Exercise 4 as well.
 
 ## Old Posts:
 
