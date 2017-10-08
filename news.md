@@ -12,17 +12,12 @@ Here is where I'll post new information concerning the lab. For example: when I 
 
 ### <a href="/cs135{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>
 
-**09/24/2017**
+**10/08/2017**
 
-I've graded Exercises 5 & 6. As always, let me know if you didn't recieve a gradesheet.
+Exercise 7 is graded. As always: let me know before Wednesday if you did not recieve a grade sheet.
 
-Couple things:
-
-About exercise 5: make sure you understand then instructions and follow them to the letter. Being precise is very important in 
-Computer Science.
-
-About exercise 6: despite my tips and warnings in lab, we didn't do so well on this exercise. This material might show up on your
-next test depending on your professor so I'd make sure you know why you lost points if you didn't get a perfect score.
+Also, Exercises 10, 11, 12, 13 are now posted. We'll be getting into some fun stuff like arrays, structs, filestreams, and functions.
+Good luck on your exams!
 
 ## Old Posts:
 
