@@ -12,3 +12,5 @@ Exercises 8 and 9 have been graded. A few things about these exercises:
 - Remember that you need to convert the numerator or denominator when you're diving two integers into a double before you divide if you want the result to be a double.
 - Averages should always be a double / float - there's no gurantee that the numbers will divide evenly.
 - Please read the directions carefully, especially whether or not you need to use input / output streams or Linux redirection.
+
+Also, today I won't be able to make office hours. If you have any questions about Exercise 10, email me and I'll get back to you as soon as I can.
