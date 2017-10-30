@@ -12,12 +12,14 @@ Here is where I'll post new information concerning the lab. For example: when I 
 
 ### <a href="/cs135{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>
 
-**10/08/2017**
+**10/30/2017**
 
-Exercise 7 is graded. As always: let me know before Wednesday if you did not recieve a grade sheet.
+Exercises 8 and 9 have been graded. A few things about these exercises:
 
-Also, Exercises 10, 11, 12, 13 are now posted. We'll be getting into some fun stuff like arrays, structs, filestreams, and functions.
-Good luck on your exams!
+- Remember to put a comment at the TOP of your program. I'm getting a lot of submissions without it.
+- Remember that you need to convert the numerator or denominator when you're diving two integers into a double before you divide if you want the result to be a double.
+- Averages should always be a double / float - there's no gurantee that the numbers will divide evenly.
+- Please read the directions carefully, especially whether or not you need to use input / output streams or Linux redirection.
 
 ## Old Posts:
 
