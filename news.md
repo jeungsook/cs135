@@ -12,16 +12,10 @@ Here is where I'll post new information concerning the lab. For example: when I 
 
 ### <a href="/cs135{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>
 
-**10/30/2017**
+**11/13/2017**
 
-Exercises 8 and 9 have been graded. A few things about these exercises:
-
-- Remember to put a comment at the TOP of your program. I'm getting a lot of submissions without it.
-- Remember that you need to convert the numerator or denominator when you're diving two integers into a double before you divide if you want the result to be a double.
-- Averages should always be a double / float - there's no gurantee that the numbers will divide evenly.
-- Please read the directions carefully, especially whether or not you need to use input / output streams or Linux redirection.
-
-Also, today I won't be able to make office hours. If you have any questions about Exercise 10, email me and I'll get back to you as soon as I can.
+Sorry, some thing came up and I won't be able to make office hours today. Please email me if you have any questions about the exercises
+and I will try to respond asap.
 
 ## Old Posts:
 
