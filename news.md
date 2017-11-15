@@ -12,10 +12,13 @@ Here is where I'll post new information concerning the lab. For example: when I 
 
 ### <a href="/cs135{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>
 
-**11/13/2017**
+**11/15/2017**
 
-Sorry, some thing came up and I won't be able to make office hours today. Please email me if you have any questions about the exercises
-and I will try to respond asap.
+Exercise 10 has been graded. 
+
+Comments:
+
+- Make sure to test your programs well. Plug in some large numbers and verify!
 
 ## Old Posts:
 
