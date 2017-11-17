@@ -43,7 +43,7 @@ Right-click & click save link as on the "Download .cpp" button.
 
 ### Notes about this function:
 
-- If you want to write your own function, you have to include what is called a function prototype before the int main function:
+- If you want to write your own function, you have to include what is called a function prototype before the int main function, or place your function definition above the main function. Functions are like variables, you cannot use them before you let the compiler know that you are going to have a variable / function of that name in your program (which you do with variables by declaring them).
 
 Ex: Function prototype for my pow function
 
