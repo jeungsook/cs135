@@ -12,7 +12,7 @@ permalink: /exercise12/
 - Use file streams instead of Linux redirection
 
 ### Due
-due by 11:59pm, Tues, Nov 21
+by 11:59pm, ̶T̶u̶e̶s̶,̶ ̶N̶o̶v̶ ̶2̶1̶  Mon, Nov 27
 
 ### Point Value
 50
