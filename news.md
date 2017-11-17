@@ -12,13 +12,12 @@ Here is where I'll post new information concerning the lab. For example: when I 
 
 ### <a href="/cs135{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>
 
-**11/15/2017**
+**11/17/2017**
 
-Exercise 10 has been graded. 
+Important! The due dates for Exercises 11 and 12 have been extended.
 
-Comments:
-
-- Make sure to test your programs well. Plug in some large numbers and verify!
+Exercise 11 is now due, Tues, Nov 21 and Exercise 12 is now due Mon, Nov 27.
+As always, email me if you're having trouble with either exercise.
 
 ## Old Posts:
 
