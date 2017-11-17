@@ -22,3 +22,4 @@ by 11:59pm ̶S̶u̶n̶,̶ ̶N̶o̶v̶ ̶1̶2̶ Tues, Nov 21
 ### Tips
 - Remember that strings are like arrays of char type
 - You can manipulate them by index
+- But strings are not exactly the same as character arrays so be careful. Don't try to override the bounds of an array manually.
